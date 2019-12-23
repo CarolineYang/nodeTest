@@ -1,0 +1,6 @@
+1、命名规范
+驼峰 testFunction
+TestFunction
+test_func(php里用的多)
+2、命名劲量避开js的语言关键字，或者node核心库的名称
+3、程序执行入口文件： main.js

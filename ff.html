@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // var convert = function(s, numRows) {
+    //     // if(numRows>2){
+    //         let len=s.length;
+    //         let gen=numRows-2;
+    //         let hui=numRows+gen;
+    //         const con={}
+    //         for(let i=0;i<len;i++){
+    //             let left=(i+1)%hui;
+    //             let le=Math.floor((i+1)/hui);
+    //             if(i==5){
+    //                 console.log(left)
+    //             }
+    //             if(left == 0) {
+    //                 var cc=String(2)+'-'+String((gen+1)*(le-1)+gen+1)
+    //                 console.log(cc)
+    //             }else if(left<=numRows && left>0){
+    //                 var cc=String(left)+'-'+String((gen+1)*le+1)
+    //             }else if(left>numRows){
+    //                 var cc=String(numRows-(left-numRows))+'-'+String((gen+1)*le+(left-numRows+1))
+    //             }
+    //             con[cc]=s[i]
+    //         }
+    //         let rows=Math.ceil(len/hui)*(gen+1);
+    //         let tr=''
+    //         if(rows>1){
+    //             for(let i=1;i<=numRows;i++){
+    //                 for(let j=1;j<=rows;j++){
+    //                     let id=String(i)+'-'+String(j)
+    //                     if(con[id]){
+    //                         tr += con[id]+' '
+    //                     }else{
+    //                         tr += "  "
+    //                     }
+    //                 }
+    //                 tr+='\n'
+    //             }
+    //
+    //         }
+    //         console.log(tr)
+    //
+    //
+    //     // }
+    //
+    // };
+    var convert = function(s, numRows) {
+        if(numRows == 1)
+            return s;
+
+        const len = Math.min(s.length, numRows);
+        console.log(len)
+        const rows = [];
+        for(let i = 0; i< len; i++) rows[i] = "";
+        let loc = 0;
+        let down = false;
+
+        for(const c of s) {
+            rows[loc] += c;
+            if(loc == 0 || loc == numRows - 1)
+                down = !down;
+            loc += down ? 1 : -1;
+        }
+
+        let ans = "";
+        for(const row of rows) {
+            ans += row;
+        }
+        console.log(rows)
+        return ans;
+
+    };
+
+    var myAtoi = function(str) {
+
+
+
+
+        let con=''
+        let cons=-1
+        function isIntNumber(val){
+
+            var regPos = /^\d+(\.\d+)?$/; //非负浮点数
+            var regNeg = /^(-(([0-9]+\.[0-9]*[1-9][0-9]*)|([0-9]*[1-9][0-9]*\.[0-9]+)|([0-9]*[1-9][0-9]*)))$/; //负浮点数
+            if(regPos.test(val) || regNeg.test(val)){
+                return true;
+            }else{
+                return false;
+            }
+
+        }
+        for(let i=0;i<str.length;i++){
+            if(str[i]!=' ' && str[i]!='' ){
+                console.log('str[i]',str[i])
+                if(str[i]!='+' && str[i]!='-' && !isIntNumber(parseInt(str[i]))){
+                    return 0
+                }
+
+                cons=i
+                break;
+            }
+        }
+        if(cons!=-1){
+            let news=str.substr(cons)
+            let conss=-1;
+
+            for(let i=1;i<news.length;i++){
+                if(news[i]!='' && news[i]!=' '){
+                    if(!isIntNumber(parseInt(news[i]))){
+                        conss++;
+                        console.log('news',news.substring(0,i))
+                        if(news.substring(0,i).length==1){
+                            if(news.substring(0,i)=="+" || news.substring(0,i)=="-"){
+                                return 0
+                            } else{
+                                return news.substring(0,i)
+                            }
+                        }
+                        if(parseInt(news.substring(0,i))>=-Math.pow(2,31) && parseInt(news.substring(0,i))<Math.pow(2,31)){
+                            return parseInt(news.substring(0,i))
+                        }else if(parseInt(news.substring(0,i))<-Math.pow(2,31)){
+                            return -Math.pow(2,31)
+                        }else{
+                            return Math.pow(2,31)-1
+                        }
+
+                    }
+                    break;
+                }else{
+                    return 0
+                }
+            }
+            if(conss==-1){
+                if(news.length==1){
+                    if(news=="+" || news=="-"){
+                        return 0
+                    } else{
+                        return news
+                    }
+                }
+                if(parseInt(news)>=-Math.pow(2,31) && parseInt(news)<Math.pow(2,31)){
+                    return parseInt(news)
+                }else if(parseInt(news)<-Math.pow(2,31)){
+                    return -Math.pow(2,31)
+                }else{
+                    return Math.pow(2,31)-1
+                }
+
+            }
+        }else{
+            return 0
+        }
+
+    };
+console.log('mPAYPALISHIRING',parseInt('-121'),'-121'.split('').reverse().join(''),parseInt('-121'.split('').reverse().join('')))
+    // convert('PAYPALISHIRING', )
+</script>
+</body>
+</html>
