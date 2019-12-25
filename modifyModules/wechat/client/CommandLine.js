@@ -6,12 +6,12 @@ function CommandLine(cmd) {
     this.readline=r;
     this.readline.setPrompt('Wechat>');
     this.readline.on('line',(input)=>{
-        console.log(`接收到：${input}`);
+        // console.log(`接收到：${input}`);
         //TODO: 处理命令行输入
         // switch (input) {
         //     case
         // }
-        this.readline.emit('inputa','ss');
+        this.readline.emit('inputa',input);
     })
 
 }

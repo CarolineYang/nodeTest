@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/私有变量.js" afterDir="false" />
+    <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="12.24 express">
+      <change afterPath="$PROJECT_DIR$/js高程/10、DOM/1、节点层次.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/10、DOM/1、节点层次.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/10、DOM/2、DOM操作技术.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/10、DOM/2、DOM操作技术.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/7、函数表达式/内存泄漏.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/7、函数表达式/块级作用域.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/7、函数表达式/私有变量.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/7、函数表达式/继承.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/1、window对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/1、window对象.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/2、location对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/2、location对象.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/3、navigator对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/3、navigator对象.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/4、screen对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/4、screen对象.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/5、history对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/8、BOM/5、history对象.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/9、客户端检测/2、怪癖检测.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/9、客户端检测/2、怪癖检测.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_web/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_web/webServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_web/说明.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js高程/私有变量.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modifyModules/wechat/client/CommandLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/modifyModules/wechat/client/CommandLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modifyModules/wechat/client/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/modifyModules/wechat/client/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modifyModules/wechat/sever/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/modifyModules/wechat/sever/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,82 +49,117 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modifyModules/testDgramUDP/client/main.js">
+        <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="378">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coreModules/readline/main.js">
+        <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="-1828">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <element signature="e#326#397#0" />
+                <element signature="e#505#631#0" />
+                <element signature="e#657#903#0" />
+                <element signature="e#495#536#0" />
+                <element signature="e#904#1367#0" />
+                <element signature="e#997#1021#0" />
+                <element signature="e#1123#1224#0" />
+                <element signature="e#1289#1361#0" />
+                <element signature="e#1380#1412#0" />
+                <element signature="e#1421#1453#0" />
+                <element signature="e#1462#1494#0" />
+                <element signature="e#1498#1530#0" />
+                <element signature="e#1432#1542#0" />
+                <element signature="e#1588#1834#0" />
+                <element signature="e#2624#2708#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modifyModules/wechat/User.js">
+        <entry file="file://$PROJECT_DIR$/js高程/10、DOM/1、节点层次.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modifyModules/wechat/Message.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modifyModules/wechat/client/CommandLine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/编码规范">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js高程/私有变量.js">
+        <entry file="file://$PROJECT_DIR$/js高程/10、DOM/1、节点层次.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="170">
+              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modifyModules/wechat/client/main.js">
+        <entry file="file://$PROJECT_DIR$/js高程/7、函数表达式/继承.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            <state relative-caret-position="216">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modifyModules/wechat/sever/main.js">
+        <entry file="file://$PROJECT_DIR$/js高程/8、BOM/2、location对象.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="270">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/2、怪癖检测.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/8、BOM/5、history对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -104,11 +170,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="package.json" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,19 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modifyModules/b.js" />
-        <option value="$PROJECT_DIR$/test.js" />
-        <option value="$PROJECT_DIR$/a.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/test/index.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/test.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/testIndex/123.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/main.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/testIndex/package.json" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/类的导出和使用/main.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/类的导出和使用/User.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/classEx/testClass.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/classEx/main.js" />
-        <option value="$PROJECT_DIR$/modifyModules/testModule/event/main.js" />
         <option value="$PROJECT_DIR$/modifyModules/testModule/event/TestClass1.js" />
         <option value="$PROJECT_DIR$/coreModules/fs/main.js" />
         <option value="$PROJECT_DIR$/coreModules/readline/main.js" />
@@ -150,25 +204,56 @@
         <option value="$PROJECT_DIR$/modifyModules/wechat/sever/Message.js" />
         <option value="$PROJECT_DIR$/modifyModules/wechat/User.js" />
         <option value="$PROJECT_DIR$/modifyModules/wechat/Message.js" />
+        <option value="$PROJECT_DIR$/编码规范" />
+        <option value="$PROJECT_DIR$/js高程/继承.js" />
+        <option value="$PROJECT_DIR$/js高程/私有变量.js" />
+        <option value="$PROJECT_DIR$/js高程/块级作用域.js" />
+        <option value="$PROJECT_DIR$/js高程/7、函数表达式/内存泄漏.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/1.html" />
+        <option value="$PROJECT_DIR$/modifyModules/wechat/client/CommandLine.js" />
         <option value="$PROJECT_DIR$/modifyModules/wechat/sever/main.js" />
         <option value="$PROJECT_DIR$/modifyModules/wechat/client/main.js" />
-        <option value="$PROJECT_DIR$/modifyModules/wechat/client/CommandLine.js" />
-        <option value="$PROJECT_DIR$/编码规范" />
-        <option value="$PROJECT_DIR$/js高程/私有变量.js" />
+        <option value="$PROJECT_DIR$/node_web/说明.md" />
+        <option value="$PROJECT_DIR$/node_web/testExpress/package.json" />
+        <option value="$PROJECT_DIR$/node_web/route.js" />
+        <option value="$PROJECT_DIR$/node_web/webServer.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/1、window对象.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/2、location对象.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/3、navigator.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/3、navigator对象.html" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/1、window对象.html" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/3、navigator对象.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/4、screen对象.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/5、history对象.html" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/5、history对象.js" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/2、location对象.html" />
+        <option value="$PROJECT_DIR$/js高程/8、BOM/4、screen对象.html" />
+        <option value="$PROJECT_DIR$/js高程/10、DOM/2、DOM操作技术.js" />
+        <option value="$PROJECT_DIR$/js高程/10、DOM/2、DOM操作技术.html" />
+        <option value="$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.html" />
+        <option value="$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.js" />
+        <option value="$PROJECT_DIR$/js高程/9、客户端检测/2、怪癖检测.html" />
+        <option value="$PROJECT_DIR$/js高程/9、客户端检测/2、怪癖检测.js" />
+        <option value="$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.html" />
+        <option value="$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.js" />
+        <option value="$PROJECT_DIR$/js高程/7、函数表达式/继承.js" />
+        <option value="$PROJECT_DIR$/js高程/10、DOM/1、节点层次.html" />
+        <option value="$PROJECT_DIR$/js高程/10、DOM/1、节点层次.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="135" />
-    <option name="y" value="96" />
+    <option name="x" value="144" />
+    <option name="y" value="60" />
     <option name="width" value="1400" />
-    <option name="height" value="883" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,11 +266,21 @@
               <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="js高程" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="js高程" type="462c0819:PsiDirectoryNode" />
+              <item name="10、DOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="node_web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,7 +288,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/nodeTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -205,6 +300,7 @@
       <recent name="C:\Users\TSINGRUI\nodeTest\modifyModules\testModule" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TSINGRUI\WebstormProjects\nodeTest\js高程\7、函数表达式" />
       <recent name="C:\Users\TSINGRUI\nodeTest\modifyModules\wechat" />
       <recent name="C:\Users\TSINGRUI\nodeTest\coreModules\TCP" />
       <recent name="C:\Users\TSINGRUI\nodeTest\modifyModules\testModule\node_modules" />
@@ -222,29 +318,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.main.js (2)">
-    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modifyModules/wechat/sever/main.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="JavaScript Debug.1、节点层次.html">
+    <configuration name="1、节点层次.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/10、DOM/1、节点层次.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modifyModules/wechat/client/main.js" working-dir="$PROJECT_DIR$">
+    <configuration name="2、怪癖检测.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/9、客户端检测/2、怪癖检测.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modifyModules/testDgramUDP/client/main.js" working-dir="$PROJECT_DIR$">
+    <configuration name="3、用户代理检测.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/9、客户端检测/3、用户代理检测.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modifyModules/testDgramUDP/server/main.js" working-dir="$PROJECT_DIR$">
+    <configuration name="1、节点层次.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js高程/10、DOM/1、节点层次.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modifyModules/testModule/test.js" working-dir="$PROJECT_DIR$">
+    <configuration name="继承.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js高程/7、函数表达式/继承.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.test.js" />
-        <item itemvalue="Node.js.main.js (4)" />
-        <item itemvalue="Node.js.main.js (3)" />
-        <item itemvalue="Node.js.main.js (2)" />
-        <item itemvalue="Node.js.main.js (1)" />
+        <item itemvalue="JavaScript Debug.1、节点层次.html" />
+        <item itemvalue="Node.js.1、节点层次.js" />
+        <item itemvalue="Node.js.继承.js" />
+        <item itemvalue="JavaScript Debug.3、用户代理检测.html" />
+        <item itemvalue="JavaScript Debug.2、怪癖检测.html" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +362,9 @@
       <workItem from="1576545605473" duration="5788000" />
       <workItem from="1576631634916" duration="11054000" />
       <workItem from="1577068155990" duration="3246000" />
-      <workItem from="1577076023398" duration="1435000" />
+      <workItem from="1577076023398" duration="13844000" />
+      <workItem from="1577150114594" duration="11114000" />
+      <workItem from="1577236136961" duration="18741000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -275,23 +373,30 @@
       <option name="project" value="LOCAL" />
       <updated>1577076081146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="私有变量">
+      <created>1577079203393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577079203393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64120000" />
+    <option name="totallyTimeSpent" value="106384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2581665" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18545838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32502708" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62689805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -309,7 +414,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sss" />
-    <option name="LAST_COMMIT_MESSAGE" value="sss" />
+    <MESSAGE value="私有变量" />
+    <MESSAGE value="12.24 express" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.24 express" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -329,6 +436,28 @@
           <line>17</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js高程/7、函数表达式/私有变量.js</url>
+          <line>60</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/modifyModules/wechat/sever/main.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js高程/7、函数表达式/私有变量.js</url>
+          <line>62</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.js</url>
+          <line>68</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -347,84 +476,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modifyModules/testModule/node_modules/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/is-arrayish/.istanbul.yml" />
-    <entry file="file://$PROJECT_DIR$/modifyModules/testModule/testIndex/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modifyModules/testModule/testIndex/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fs-/node_modules/lcid/index.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/fs/README.md" />
-    <entry file="file://$PROJECT_DIR$/node_modules/fs/package.json" />
-    <entry file="file://$PROJECT_DIR$/modifyModules/testModule/类的导出和使用/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modifyModules/testModule/类的导出和使用/User.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ff.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2052">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="e#2293#4891#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coreModules/fs/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="99" column="9" lean-forward="true" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/cheerio/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coreModules/buffer/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -560,36 +611,253 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modifyModules/wechat/client/CommandLine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="486">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modifyModules/wechat/client/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modifyModules/wechat/sever/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="684">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/编码规范">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="5" />
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/私有变量.js">
+    <entry file="file://$PROJECT_DIR$/node_web/testExpress/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_web/说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_web/webServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_web/route.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modifyModules/wechat/sever/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/1、window对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/3、navigator对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/1、window对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1647">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/5、history对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/2、location对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="84" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/4、screen对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="66" lean-forward="true" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/4、screen对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/10、DOM/2、DOM操作技术.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/10、DOM/2、DOM操作技术.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/7、函数表达式/内存泄漏.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/2、怪癖检测.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/3、navigator对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/7、函数表达式/私有变量.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/7、函数表达式/块级作用域.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/7、函数表达式/继承.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/3、用户代理检测.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1828">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="e#326#397#0" />
+            <element signature="e#505#631#0" />
+            <element signature="e#657#903#0" />
+            <element signature="e#495#536#0" />
+            <element signature="e#904#1367#0" />
+            <element signature="e#997#1021#0" />
+            <element signature="e#1123#1224#0" />
+            <element signature="e#1289#1361#0" />
+            <element signature="e#1380#1412#0" />
+            <element signature="e#1421#1453#0" />
+            <element signature="e#1462#1494#0" />
+            <element signature="e#1498#1530#0" />
+            <element signature="e#1432#1542#0" />
+            <element signature="e#1588#1834#0" />
+            <element signature="e#2624#2708#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/1、能力检测.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/9、客户端检测/2、怪癖检测.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/5、history对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/8、BOM/2、location对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/10、DOM/1、节点层次.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/10、DOM/1、节点层次.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
