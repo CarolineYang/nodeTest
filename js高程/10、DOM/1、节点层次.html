@@ -5,15 +5,17 @@
     <title>DOM1级 节点层次</title>
 </head>
 <body>
+<!--ztest comment-->
     <h1>节点层次</h1>
     <h2>总共有12种节点类型，都继承自一个基类型</h2>
-    <ul id="list" style="list-style: none">
+
+    <ul id="allNode" style="list-style: none">
         <li id="node">1、Node类型-Node.ELEMENT_NODE(1)</li>
-        <li>2、Document类型-Node.DOCUMENT_NODE(9)</li>
+        <li id="cl" onclick="alert('1')" style="color: red;font-size: 18px;">2、Document类型-Node.DOCUMENT_NODE(9)</li>
         <li>3、Element类型-Node.ELEMENT_NODE(1)</li>
-        <li>4、Text类型-Node.TEXT_NODE(3)</li>
-        <li>5、Comment类型-Node.COMMENT_NODE(8)</li>
-        <li>6、CDATASection类型-Node.CDATA_SECTION_NODE(4)</li>
+        <li name="hh">4、Text类型-Node.TEXT_NODE(3)</li>
+        <li name="hh">5、Comment类型-Node.COMMENT_NODE(8)</li>
+        <li name="hh">6、CDATASection类型-Node.CDATA_SECTION_NODE(4)</li>
         <li>7、DocumentType类型-Node.DOCUMENT_TYPE_NODE(10)</li>
         <li>8、DocumentFragment类型-Node.DOCUMENT_FRAGMENT_NODE(11)</li>
         <li id="paohui">9、Attr类型-Node.ATTRIBUTE_NODE(2)</li>
@@ -21,6 +23,9 @@
     <h3>ie中所有的DOM对象都是以COM对象的形式实现的。意味着ie中DOM对象与原生
     JS对象的行为或者活动特点并不一致</h3>
     <h2>DOM是针对HTML和XML文档的一个API（可以将文档描绘成一个由多层节点构成的结构）</h2>
+    <form action="">
+        <input type="text">
+    </form>
     <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.js"></script>
     <script src="1、节点层次.js"></script>
 </body>
