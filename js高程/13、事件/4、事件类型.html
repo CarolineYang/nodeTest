@@ -4,7 +4,89 @@
     <meta charset="UTF-8">
     <title>4、事件类型</title>
 </head>
-<body>
+<body onload="console.log('load')" style="border:1px solid red;width: 800px;overflow: scroll" >
+<p>onload</p>
+<ul id="list" style="border: 1px solid black;">
+    <li>1、UI事件
+    <ul>
+        <li>load</li>
+        <li>unload</li>
+        <li>resize</li>
+        <li>scroll事件</li>
+    </ul>
+    </li>
+    <li>2、焦点事件
+        <input id="input1" type="text">
+        <input id="input2" type="text">
+    </li>
+    <li>
+        3、鼠标与滚轮事件
+        <ul>
+            <li id="cl">click</li>
+            <li>dblclick</li>
+            <li>mousedown</li>
+            <li>mouseenter</li>
+            <li>mouseleave</li>
+            <li>mousemove</li>
+            <li>mouseout</li>
+            <li>mouseover</li>
+            <li>mouseup</li>
+        </ul>
+    </li>
+    <li>4、键盘与文本事件  键盘事件三个keydown(event.keyCode) keypress(特有属性event.charCode) keyup 文本事件就一个textInput
+        <ul>
+            <li>键码</li>
+            <li>字符编码</li>
+            <li>DOM3级变化(不再包含charCode属性，换成key和char)</li>
+            <li>textInput事件</li>
+            <li>设备中的键盘事件</li>
+        </ul>
+    </li>
+    <li>5、复合事件 只有ie9支持 compositionstart compositionupdate compositionend 加一个event.data属性
+        <textarea name="" id="textbox" cols="30" rows="10"></textarea>
+    </li>
+    <li>6、变动事件
+    <ul>
+        <li>删除节点</li>
+        <li>插入节点</li>
+    </ul>
+    </li>
+    <li>7、HTML5事件
+        <ul>
+            <li id="context">contextmenu事件 何时显示上下文菜单（右键单击事件）
+            <ul id="menu" style="visibility: hidden;position:absolute;">
+                <li>test</li>
+                <li>contextmenu事件</li>
+                <li>contextmenu事件a</li>
+            </ul>
+            </li>
+            <li>beforeunload事件(没生效)</li>
+            <li>readystatechange事件(没生效) readyState属性 uninitialized loading loaded interactive complete
+            支持该事件的有ie火狐和opera ，chrome不支持嗷
+            </li>
+            <li>
+                pageshow和pagehide事件 ie9之前不支持  在document上触发，但是绑定在window上执行 pageshow在load之后触发，pagehide在unload之前触发，
+                只要页面指定了unload事件那么这个页面就会被排除在bfcache外，就是不能缓存了
+                说白了就是前进后退按钮时把整个页面缓存起来，再次回到界面load事件不会被触发 。还有该事件里event.persisted属性。确保是否保存在了bfcache里
+            </li>
+            <li>haschange事件</li>
+        </ul>
+    </li>
+    <li>8、设备事件 都是绑定在window上的
+    <ul>
+        <li>orientationchange事件  window.orientation属性 ios里判别屏幕是横向模式还是纵向模式</li>
+        <li>MozOrientation事件 设备的加速计检测到设备方向改变时触发的 event.x y z</li>
+        <li>deviceorientation事件 告诉开发人员设备在空中的朝向，而不是如何移动 event.x y z</li>
+        <li>devicemotion事件 检测设备是不是正在往下掉</li>
+    </ul>
+    </li>
+    <li>9、触摸与手势事件
+        <ul>
+            <li> touchstart touchend touchmove touchcancel</li>
+            <li>gesturestart gestureend gesturechange</li>
+        </ul>
+    </li>
+</ul>
 <script src="4、事件类型.js"></script>
 </body>
 </html>
