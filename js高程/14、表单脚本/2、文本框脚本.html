@@ -5,6 +5,25 @@
     <title>2、文本框脚本</title>
 </head>
 <body>
+<h3>input  textarea</h3>
+<ul>
+    <li>选择文本</li>
+    <li>过滤输入</li>
+    <li>自动切换焦点</li>
+    <li>HTML%约束验证API</li>
+</ul>
+<form>
+    <input id="hh" type="text" size="25" maxlength="50" value="hello world" autofocus>
+    <textarea name="" id="textbox" cols="30" rows="10" value="sss"></textarea>
+</form>
+<form action="" novalidate>
+    <input id="input1" type="text" maxlength="3" pattern="\d+" required>
+    <input id="input2" type="text" maxlength="3">
+    <input id="input3" type="text" maxlength="3" formnovalidate>
+    <input type="submit">
+</form>
+<span id="aa" tabindex="-1" contenteditable="true">test focus</span>
+<script src="common.js"></script>
 <script src="2、文本框脚本.js"></script>
 </body>
 </html>

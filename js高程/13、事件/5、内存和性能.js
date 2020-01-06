@@ -1,7 +1,7 @@
 //1、事件委托
 var list=document.querySelector('#list');
 list.onclick=function (event) {
-    console.log(event.target,event.target.className)
+    console.log(event,event.target,event.target.className)
     switch(event.target.id){
         case 'a':
             console.log('1');
