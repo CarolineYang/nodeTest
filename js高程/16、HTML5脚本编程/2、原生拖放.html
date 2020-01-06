@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2、原生拖放</title>
+</head>
+<body>
+<div id="a">
+    <div draggable="true">拖拽</div>
+    <img width="200" height="200" src="22.jpg" alt="">
+</div>
+<div id="b"  style="border: 1px solid red;width: 300px;height:300px;"></div>
+<ul>
+    <li>拖放事件-7个dragstart drag dragend  dragenter dragover dragleave drop</li>
+    <li>自定义放置目标-dragenter和dragover阻止默认事件</li>
+    <li>dataTransfer对象-event.dataTransfer.setData() 和.getData()两个方法</li>
+    <li>dropEffect(放在dragenter事件里)与effectAllowed(放在dragstart事件里里)属性</li>
+    <li>可拖动--标签属性 draggable=“true”</li>
+    <li>其他成员--addElement() clearData() setDragImage() .types 都是dataTransfer的方法和属性</li>
+</ul>
+<script src="2、原生拖放.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3、媒体元素</title>
+</head>
+<body>
+<audio style="width: 200px;height: 20px;" controls >
+    <source src="xu.mp3" type="audio/ogg">
+    <source src="xu.mp3" type="audio/mpeg">
+    audio palyer
+</audio>
+<video id="video" style="width: 300px;height: 300px;" controls >
+    <source src="1.1.mp4" type="video/webm">
+    <source src="1.1.mp4" type="video/ogg">
+    video player not available
+</video>
+<div id="zidingyi">
+    <div class="video">
+        <video src="1.1.mp4" id="player" poster="22.jpg" width="200" height="200">
+            video player is not available
+        </video>
+        <div class="controls">
+            <input type="button" value="play" id="btn-video">
+            <span id="curtime">0</span><span>/</span><span id="duration">0</span>
+        </div>
+    </div>
+</div>
+<ul>
+    <li>属性-autoplay controls loop paused volume start duration</li>
+    <li>事件-play() pause() ratechange() volumechange()等</li>
+    <li>自定义媒体播放器</li>
+    <li>检测编码支持情况--canPlayType('video/ogg') 可能返回三个值 maybe probably '' 和空字符串（布尔值为假）</li>
+    <li>Audio类型-实例</li>
+</ul>
+<script src="3、媒体元素.js"></script>
+</body>
+</html>
