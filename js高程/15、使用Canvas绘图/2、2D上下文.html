@@ -7,18 +7,20 @@
 <body>
 <canvas width="800" height="200" id="draw" style="border: 1px solid red;">draw</canvas>
 <canvas width="800" height="200" id="draw1" style="border: 1px solid red;">draw1</canvas>
+<canvas width="800" height="200" id="draw2" style="border: 1px solid red;">draw2</canvas>
+<canvas width="1500" height="500" id="draw3" style="border: 1px solid red;">draw3</canvas>
 <ul>
     <li>填充和描边 fillStyle strokeStyle</li>
     <li>绘制矩形 fillRect() strokeRect() clearRect()</li>
     <li>绘制路径-画了一个时钟(beginPath(),arc(),moveTo(),lineTo(),closePath())</li>
-    <li>绘制文本</li>
-    <li>变化</li>
-    <li>绘制图像</li>
-    <li>阴影</li>
-    <li>渐变</li>
-    <li>模式</li>
-    <li>使用图像数据</li>
-    <li>合成</li>
+    <li>绘制文本-三个方法fillText(string,x,y) strokeText(string,x,y) measureText(string)，三个属性font、textAlign、textBaseline</li>
+    <li>变化-rotate(angle)、scale(x,y)、translate(x,y)、transform(a11,a12,a21,a22,dx,dy)、setTransform(a11,a12,a21,a22,dx,dy)</li>
+    <li>绘制图像-context.drawImage(image或者canvas,x,y,width,height,targetX,targetY,targetWidth,targetHeight)、canvas.toDataURL()</li>
+    <li>阴影-shadowColor、shadowOffsetX、shadowOffsetY、shadowBlur（绘制前）</li>
+    <li>渐变-creatLinearGradient(x,y,dy,dy) creatRadialGradient()</li>
+    <li>模式-重复图像 createPattern（img,'repeat'）</li>
+    <li>使用图像数据-getImageData(x,y,w,h) 返回对象是ImageData实例有三个属性width height 和data（是一个数组）</li>
+    <li>合成-globalAlpha全局透明度和globalCompositionOperation表示后绘制的图形怎样与先绘制的图形结合</li>
 </ul>
 <script src="2、2D上下文.js"></script>
 </body>
