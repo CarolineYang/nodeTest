@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<wrox:books xmlns:wrox="http://www.wrox.com/">
+    <wrox:book>
+        <wrox:title>pert</wrox:title>
+        <wrox:author>gg</wrox:author>
+    </wrox:book>
+    <wrox:book>
+        <wrox:title>pertqqqw</wrox:title>
+        <wrox:author>wqqq</wrox:author>
+    </wrox:book>
+</wrox:books>

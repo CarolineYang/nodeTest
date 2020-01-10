@@ -5,8 +5,16 @@
     <title>2、浏览器对XPath的支持</title>
 </head>
 <body>
+<h3>XPath是设计用来在DOM文档中查找节点的手段</h3>
 <ul>
-    <li>DOM3级XPath</li>
+    <li>DOM3级XPath-XPathEvaluator（用于在特定的上下文中对XPath表达式求值） XPathResult
+     <ul>
+         <li>createExpression</li>
+         <li>createNSResolver(node)-根据node的命名空间创建一个新的对象</li>
+         <li>evaluate（expression，content，nsresolver，type，result）</li>
+     </ul>
+        FIRST_ORDERED_NODE_TYPE  ORDERED_NODE_ITERATOR_TYPE BOOLEAN_TYPE NUMBER_TYPE STRING_TYPE
+    </li>
     <li>IE中的XPath</li>
     <li>跨浏览器使用XPath</li>
 </ul>

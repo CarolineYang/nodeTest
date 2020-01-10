@@ -6,12 +6,38 @@
 </head>
 <body>
 <ul>
-    <li>DOM2级核心</li>
-    <li>DOMParser类型-将XML解析为DOM文档</li>
+    <li id="a">DOM2级核心</li>
+    <li id="b">DOMParser类型-将XML解析为DOM文档</li>
     <li>XMLSerializer类型-将DOM文档解析为XML</li>
     <li>IE8及之前版本中的XML</li>
     <li>跨浏览器处理XML</li>
 </ul>
+<script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.js"></script>
+<script>
+    $('ul').append('<li id="c">heihei</li>')
+    $('#a').click(function () {
+        $(this).css('color','red')
+        console.log('a',$(this).text())
+    })
+    $('#b').click(function () {
+
+        console.log('b',$(this).text())
+    })
+    $('#c').click(function () {
+        console.log('c',$(this).text())
+    })
+
+    var correlationLista={'a':1,'b':2,'c':4};
+    var itemList=['a','c']
+    for(let key in correlationLista){
+        itemList.map(function (value) {
+        if(value==key){
+            $('ul #'+key).trigger('click');
+        }
+        })
+    };
+
+</script>
 <script src="1、浏览器对XML、DOM的支持.js"></script>
 </body>
 </html>
