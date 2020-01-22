@@ -4,26 +4,16 @@
     <bookmark url="file://$PROJECT_DIR$/js高程/18、Javascript与XML/2、浏览器对XPath的支持.js" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="1.7 js和XML">
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/2、XMLHttpRequest2级.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/2、XMLHttpRequest2级.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/3、进度事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/3、进度事件.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/4、跨域资源共享.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/4、跨域资源共享.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/5、其他跨域技术.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/5、其他跨域技术.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/6、安全.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/6、安全.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/21、Ajax与Content/a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js" afterDir="false" />
+    <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js高程/20、JSON/1、语法.js" beforeDir="false" afterPath="$PROJECT_DIR$/js高程/20、JSON/1、语法.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js高程/20、JSON/2、解析与序列化.html" beforeDir="false" afterPath="$PROJECT_DIR$/js高程/20、JSON/2、解析与序列化.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js高程/20、JSON/2、解析与序列化.js" beforeDir="false" afterPath="$PROJECT_DIR$/js高程/20、JSON/2、解析与序列化.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html" beforeDir="false" afterPath="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js" beforeDir="false" afterPath="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,19 +27,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/5、其他跨域技术.html">
+        <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="351">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3510">
+              <caret line="130" column="23" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/5、其他跨域技术.js">
+        <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="521">
+              <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,10 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js高程/6、面向对象的程序设计/2、创建对象.html" />
-        <option value="$PROJECT_DIR$/js高程/6、面向对象的程序设计/1、理解对象.html" />
-        <option value="$PROJECT_DIR$/js高程/6、面向对象的程序设计/1、理解对象.js" />
-        <option value="$PROJECT_DIR$/js高程/17、错误处理与调试/2、错误处理.html" />
         <option value="$PROJECT_DIR$/js高程/17、错误处理与调试/2、错误处理.js" />
         <option value="$PROJECT_DIR$/js高程/17、错误处理与调试/3、调试技术.js" />
         <option value="$PROJECT_DIR$/js高程/17、错误处理与调试/4、常见的IE错误.js" />
@@ -139,8 +173,6 @@
         <option value="$PROJECT_DIR$/js高程/20、JSON/2、解析与序列化.js" />
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/4、跨院资源共享.html" />
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/5、安全.js" />
-        <option value="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html" />
-        <option value="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js" />
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.html" />
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/a.json" />
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.js" />
@@ -153,11 +185,18 @@
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/5、其他跨域技术.js" />
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/6、安全.html" />
         <option value="$PROJECT_DIR$/js高程/21、Ajax与Content/5、其他跨域技术.html" />
+        <option value="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html" />
+        <option value="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js" />
+        <option value="$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.html" />
+        <option value="$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.js" />
+        <option value="$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.html" />
+        <option value="$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="329" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -184,6 +223,12 @@
               <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="js高程" type="462c0819:PsiDirectoryNode" />
               <item name="21、Ajax与Content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="js高程" type="462c0819:PsiDirectoryNode" />
+              <item name="22、高级技巧" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
@@ -237,36 +282,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.5、其他跨域技术.html">
-    <configuration name="1、XMLHttpRequest对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/21、Ajax与Content/1、XMLHttpRequest对象.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.3、高级定时器.html">
+    <configuration name="1、高级函数.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/22、高级技巧/1、高级函数.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="2、解析与序列化.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/20、JSON/2、解析与序列化.html" useBuiltInWebServerPort="true">
+    <configuration name="2、防篡改对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/22、高级技巧/2、防篡改对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="3、进度事件.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/21、Ajax与Content/3、进度事件.html" useBuiltInWebServerPort="true">
+    <configuration name="3、高级定时器.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/22、高级技巧/3、高级定时器.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="5、其他跨域技术.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/js高程/21、Ajax与Content/5、其他跨域技术.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="1、E4X的类型.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js高程/19、E4X/1、E4X的类型.js" working-dir="$PROJECT_DIR$">
+    <configuration name="1、高级函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.1、E4X的类型.js" />
-      <item itemvalue="JavaScript Debug.2、解析与序列化.html" />
-      <item itemvalue="JavaScript Debug.1、XMLHttpRequest对象.html" />
-      <item itemvalue="JavaScript Debug.3、进度事件.html" />
       <item itemvalue="JavaScript Debug.5、其他跨域技术.html" />
+      <item itemvalue="JavaScript Debug.1、高级函数.html" />
+      <item itemvalue="JavaScript Debug.2、防篡改对象.html" />
+      <item itemvalue="JavaScript Debug.3、高级定时器.html" />
+      <item itemvalue="Node.js.1、高级函数.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.3、高级定时器.html" />
+        <item itemvalue="JavaScript Debug.2、防篡改对象.html" />
+        <item itemvalue="JavaScript Debug.1、高级函数.html" />
+        <item itemvalue="Node.js.1、高级函数.js" />
         <item itemvalue="JavaScript Debug.5、其他跨域技术.html" />
-        <item itemvalue="JavaScript Debug.3、进度事件.html" />
-        <item itemvalue="JavaScript Debug.1、XMLHttpRequest对象.html" />
-        <item itemvalue="JavaScript Debug.2、解析与序列化.html" />
-        <item itemvalue="Node.js.1、E4X的类型.js" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +349,12 @@
       <workItem from="1578447703540" duration="14256000" />
       <workItem from="1578533971697" duration="10292000" />
       <workItem from="1578620374337" duration="1829000" />
-      <workItem from="1578877363990" duration="19932000" />
+      <workItem from="1578877363990" duration="22377000" />
+      <workItem from="1578965379126" duration="2882000" />
+      <workItem from="1579052459917" duration="7877000" />
+      <workItem from="1579138877422" duration="3204000" />
+      <workItem from="1579224230425" duration="8977000" />
+      <workItem from="1579398716170" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -397,16 +447,23 @@
       <option name="project" value="LOCAL" />
       <updated>1578637537723</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1.13 XHR">
+      <created>1578905580680</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578905580680</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283591000" />
+    <option name="totallyTimeSpent" value="310265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16596417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119072706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -458,7 +515,8 @@
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="1.6 canvas" />
     <MESSAGE value="1.7 js和XML" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.7 js和XML" />
+    <MESSAGE value="1.13 XHR" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.13 XHR" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -535,8 +593,12 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/js高程/14、表单脚本/4、表单序列化.js</url>
           <line>2</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -556,34 +618,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js高程/6、面向对象的程序设计/1、理解对象.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/17、错误处理与调试/1、浏览器报告的错误.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/17、错误处理与调试/2、错误处理.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/17、错误处理与调试/2、错误处理.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="94" column="13" lean-forward="true" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js高程/17、错误处理与调试/3、调试技术.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -788,16 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -816,13 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="44" selection-start-line="44" selection-end-line="47" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -868,16 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/6、安全.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/6、安全.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/5、其他跨域技术.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -889,6 +896,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/1、高级函数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="130" column="23" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/1、XMLHttpRequest对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/2、防篡改对象.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/6、安全.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/21、Ajax与Content/6、安全.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js高程/22、高级技巧/3、高级定时器.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="48" column="40" lean-forward="true" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
