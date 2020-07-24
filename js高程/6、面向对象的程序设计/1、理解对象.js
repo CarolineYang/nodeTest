@@ -78,3 +78,17 @@ console.log(a)
 multiply("512621602792789759",
 "73487879881634")
 console.log(17849419788197*877968504004372811)
+function onScroll(evt) {
+    // Store the scroll value for laterz.
+    lastScrollY = window.scrollY;
+
+    // Prevent multiple rAF callbacks.
+    if (scheduledAnimationFrame) {
+        return;
+    }
+    scheduledAnimationFrame = true;
+    requestAnimationFrame(readAndUpdatePage);
+    console.log('???')
+}
+
+window.addEventListener('scroll', onScroll);

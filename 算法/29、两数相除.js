@@ -2,7 +2,7 @@ var a=100;
 var b=32;
 var c=3;
 var d=96;
-console.log(a.toString(2),b.toString(2),c.toString(2),d.toString(2))
+// console.log(a.toString(2),b.toString(2),c.toString(2),d.toString(2))
 var m='asdf';
 /**
  * 解题思路：这题是除法，所以先普及下除法术语
@@ -79,3 +79,5 @@ var divide = function(dividend, divisor) {
     }
 
 };
+let hh=[1];
+console.log(hh.slice(),hh)

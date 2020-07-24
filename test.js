@@ -21,7 +21,7 @@ http.createServer(function (request, response) {
 fs.readFile('D:/test.txt',function (err,file) {
     if(err){
         console.log("??????")
-        throw err
+        // throw err
     }
     console.log(file.toString())
 })
