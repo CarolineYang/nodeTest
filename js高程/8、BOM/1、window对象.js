@@ -21,23 +21,25 @@ console.log('s5',window.frames[0])
 //3、窗口位置 screenX screenLeft screenTop
 // moveTo(200,300)移动到  moveBy(50,0)向右移动50px 最好别用这俩方法opera ie7默认是禁用的 chrome里好像也是禁用的
 console.log('wei',window.screenX,window.screenLeft)
-var left=(typeof window.screenLeft == 'number')?window.screenLeft:window.screenX
-window.moveTo(200,200)
-window.moveBy(-200,0)
+var left=(typeof window.screenLeft == 'number')?window.screenLeft:window.screenX;
+window.moveTo(200,200);
+window.moveBy(-200,0);
 
 //4、窗口大小 innerWidth outerWidth
 //页面视口大小 innerHeight
 //两个方法 有些浏览器就是禁用的 resizeTo(100,100)  resizeBy(100,50)
 console.log('size',window.innerHeight,window.outerHeight,document.documentElement.clientHeight)
-window.resizeTo(100,100)
+window.resizeTo(200,100);
 // 5、导航和打开窗口
 //因为弹窗的安全限制 他会被浏览器拦击打不开的，好像只剩下用户手动点击弹开弹窗 这个因浏览器不一样
 // window.open('https://www.baidu.com','_blank','height=400,width=200')
 //不打开新窗口的情况下会忽略第三个参数
 $('#hh').click(function () {
-    var hhs=window.open('https://www.baidu.com','_blank','height=400,width=500')
+    var hhs=window.open('https://www.baidu.com','_blank','height=400,width=500,resizable=no')
     // //关闭方法
     // hhs.close()
+    hhs.resizeTo(100,100);
+    hhs.moveTo(200,200);
     //   弹出窗口有一个指针指向打开它的原始窗口 把opener设置成null就是切断标签页之间的联系，并且没有办法恢复
     console.log(hhs.opener==window)
 });
@@ -45,7 +47,7 @@ $('#hh').click(function () {
 var times=setTimeout(function () {
     alert('hell')
 },1000);
-clearTimeout(times)
+clearTimeout(times);
 let num=0;
 let inter=setInterval(function () {
     num++;
@@ -55,7 +57,7 @@ let inter=setInterval(function () {
     }
 },500)
 //7、系统对话框  alert() confirm() prompt() 外观由浏览器和操作系统决定，与css无关
-confirm('a?')
+confirm('a?');
 // if(confirm('a?')){
 //     alert('yes')
 // }else{
@@ -67,5 +69,5 @@ if(res!=null){
 }
 // window.print();
 // //在chrome里没生效
-// window.find();
+window.find();
 

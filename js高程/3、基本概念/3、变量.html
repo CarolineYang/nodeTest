@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>变量是松散类型的</p>
+<script>
+    var message; //定义一个变量但未赋值，此时他会保存为一个特殊的值-undefined
+    var a='sss';
+    a=10;
+    console.log(a,message)
+//    变量初始化并不会标记类型，赋值的同时也可以修改值的类型
+
+    function f() {
+        var b = 'hi'//局部变量
+    }
+    f();
+    // alert(b) //报错
+    function ff() {
+        c = 'hirrrr'//全局变量
+    }
+    ff();
+    alert(c) //报错
+    var hh=10,
+        aa=12,
+        cc=13;
+</script>
+</body>
+</html>

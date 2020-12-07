@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>5个基本数据类型</h2>
+<ul>
+    <li>Undefined类型</li>
+    <li>Null类型</li>
+    <li>Boolean类型--true和false,区分大小写的，可以对任何数据类型调用Boolean()函数
+    转变规则
+        <table>
+            <thead>
+            <tr><td>数据类型</td><td>true</td><td>false</td></tr>
+            </thead>
+            <tr>
+                <td>string</td>
+                <td>任何非空字符串</td>
+                <td>空字符串</td>
+            </tr>
+            <tr>
+                <td>number</td>
+                <td>任何非零数字值（包括无穷大）</td>
+                <td>0和NaN</td>
+            </tr>
+            <tr>
+                <td>object</td>
+                <td>任何对象</td>
+                <td>null</td>
+            </tr>
+        </table>
+    </li>
+    <li>String类型</li>
+    <li>Number类型</li>
+</ul>
+<div>
+    用typeof 操作符来检测变量的数据类型，可能返回undefined boolean string number object--对象或者null function
+</div>
+<script>
+    var a=10;
+    var b='s';
+    var c=true;
+    var d = {
+        ad:'ss'
+    };
+    //null是一个空对象，所以也返回object
+    var e = function () {
+        console.log('nis')
+    };
+    var message;
+
+    console.log(typeof a,typeof b,typeof c,typeof d,typeof e,typeof message,typeof age)
+    console.log(null==undefined,null===undefined);
+
+    var aa=32e3;
+
+    var bb = 0.1;
+    var cc = 0.2;
+    if(aa + bb == 0.3){
+        alert('you got 0.3')
+    }
+    //永远不要测试某个特定的浮点数值
+    console.log(aa,0.1+0.2,Number.MAX_VALUE,isFinite(bb))
+    // NaN  isNan()函数接收一个值会尝试将这个值转换为数值，，而任何不能被转换为数值的值就会导致函数返回true；
+    console.log(NaN == NaN);
+    console.log(isNaN(NaN));
+    console.log(isNaN(10));
+    console.log(isNaN('10'));
+    console.log(isNaN('blue'));
+    console.log(isNaN(true)); //true会变成数字1
+    // 4、数值转换 Number()-用于转换任何数据类型  parseInt() parseFloat()--主要用于把字符串转换为数值
+
+
+var a = 10;
+var b = 19;
+while(a<b){
+    if(a==12){
+        break;
+    }
+    a++;
+    console.log(a)
+}
+
+console.log(~a,-a-1)
+</script>
+</body>
+</html>

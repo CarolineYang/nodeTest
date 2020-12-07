@@ -1,11 +1,11 @@
 console.log(document.implementation.hasFeature('CSS2','2.0'))
 //1、访问元素的样式
 var box=document.getElementsByClassName('box')[0];
-console.log(box.style.width,box.style.length)//200px
+console.log(box.style.width,box.style.height,box.style.length,)//200px
 for(let i=0;i<box.style.length;i++){
     console.log(box.style[i]+":"+box.style.getPropertyValue(box.style[i]))
 }
-box.style.removeProperty('border')
+box.style.removeProperty('border');
 //获取计算后的样式  都是只读的 返回一个CSSStyleDeclaration对象
 var computedStyle=document.defaultView.getComputedStyle(box,null) || box.currentStyle;
 console.log(computedStyle.width)

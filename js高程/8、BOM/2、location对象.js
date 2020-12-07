@@ -18,3 +18,4 @@ console.log(hh);
 // location.reload()（有可能从缓存中加载）重新加载(location.reload(true)从服务器重新加载)
 //location属性 hash host hostname(服务器名称www.baidu.com)  href 完整的url  pathname路径名字目录或者文件名字相当于路由的具体后面那个地址
 //port 端口 protocol协议（一般就是http:或者https:）  search 返回url的查询字符串以问号开头的
+// location.replace('http://www.baidu.com')

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>之前说的斐波那契数列，重新赋值的问题 用argument.callee(但是严格模式下，不能使用这个callee)取消耦合,还有另一种方法，就是用函数表达式但是不是匿名函数</h3>
+<div>
+    var b = (function f(num) {
+    if(num<=1){
+    return 1;
+    }else{
+    return num*f(num-1);
+    }
+    });
+    var c = b;
+    b = null;
+    console.log(c(5))
+</div>
+<script src="1、递归.js">
+
+</script>
+</body>
+</html>

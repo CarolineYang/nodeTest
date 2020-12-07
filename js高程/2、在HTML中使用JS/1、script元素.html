@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>测试</title>
+</head>
+<body>
+<div id="app" >
+   <ul>
+       <li>async-立即下载脚本，单不妨碍页面中的其他操作，只对外部脚本有效，不保证执行顺序了就</li>
+       <li>charset</li>
+       <li>defer-表示脚本立即下载但是可以延迟到文档完全被解析和显示之后再执行，只对外部脚本有效，理论上两个延迟脚本是按顺序执行，但实际上并不一定</li>
+       <li>src</li>
+       <li>type</li>
+   </ul>
+</div>
+<script src="https://cdn.staticfile.org/jquery/3.5.1/jquery.js"></script>
+<script src="1、script元素.js">
+    <![CDATA[
+    function f() {
+        
+    }
+        ]]>
+</script>
+</body>
+
+
+</html>

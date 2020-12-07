@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>函数其实也是个对象，与其他引用类型一样具有属性和方法。所以函数名其实是指向函数对象的一个指针，不会与某个函数绑定</h3>
+<ul>
+    <li>1、没有重载</li>
+    <li>2、函数声明和函数表达式--解析器会先读取函数声明，并且使其在执行任何代码之前可用，但是函数表达式必须等到解析器执行到它所在的行，才会执行</li>
+    <li>3、作为值的函数--函数中传参函数</li>
+    <li>4、函数内部属性---this和arguments(类数组对象)</li>
+    <li>5、函数属性和方法--length  prototype  aplply() call() 特定的作用域中调用函数（使用call来扩充作用域的最大好处就是对象不需要和方法有任何耦合关系）bind（）是穿件一个函数的实例，其this指向o；相当于是新建了个函数</li>
+</ul>
+<script src="5、Function类型.js"></script>
+</body>
+</html>
