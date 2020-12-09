@@ -7,16 +7,16 @@
 <body>
 <h3>select option</h3>
 <ul>
-    <li>选择选项</li>
-    <li>添加选项</li>
-    <li>移除选项</li>
-    <li>移动和重排选项</li>
+    <li>1、选择选项 --selectbox.options[0].text/.value/.index  selectbox.selectedIndex</li>
+    <li>2、添加选项---appendChild  add(new Option("option text","option value"),undefined)</li>
+    <li>3、移除选项 ---remove(0) removeChild(selectbox.options[0]) selectbox.options[0]=null;</li>
+    <li>4、移动和重排选项 --appendChild()添加已知元素会把已知元素删除然后再挪到最后 insertBefore</li>
 </ul>
 <form action="">
-    <select multiple="multiple" size="2" style="width: 100px;">
+    <select type="select-multiple"  size="2" style="width: 100px;">
         <option value="1">1</option>
         <option value="2">2</option>
-        <option value="3" selected>3</option>
+        <!--<option value="3" selected>3</option>-->
         <option value="4">4</option>
         <option>5</option>
     </select>

@@ -6,4 +6,4 @@
 // 78. 子集
 // 90. 子集 II
 var a = new Array(5);
-console.log(a)
+console.log(a);
