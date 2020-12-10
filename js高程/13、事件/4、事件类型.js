@@ -3,10 +3,10 @@ var a=10;
 // unload事件
 //切换别的界面不会触发，但是关闭这个html文件一定会触发 全局变量a还可以取到 但是DOM树就都不在了已经 因为是在yi
 //一切都被卸载之后才触发的  利用这个最多的是清楚引用，以避免内存泄漏
-// window.onunload=function () {
-//     console.log('leave',a)
-//     alert('ppp',a)
-// };
+window.onunload=function () {
+    console.log('leave',a)
+    alert('ppp',a)
+};
 //2、焦点事件
 var input1=document.getElementById('input1');
 var input2=document.getElementById('input2');
