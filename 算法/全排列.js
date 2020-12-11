@@ -21,7 +21,7 @@ var qunpai = function (n,k) {
         i--;
     }
 };
-console.log(qunpai(2,1));
+console.log(qunpai(3,3));
 
 //dfs 深度遍历
 

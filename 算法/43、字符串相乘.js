@@ -1,4 +1,4 @@
-//
+// 牛逼的思想和 % /
 var multiply = function(num1, num2) {
     let len = num1.length+num2.length;
     let pos = new Array(len).fill(0);
