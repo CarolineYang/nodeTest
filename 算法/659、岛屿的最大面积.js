@@ -90,4 +90,52 @@ console.log(maxAreaOfIsland([[0,0,1,0,0,0,0,1,0,0,0,0,0],
     [0,1,0,0,1,1,0,0,1,1,1,0,0],
     [0,0,0,0,0,0,0,0,0,0,1,0,0],
     [0,0,0,0,0,0,0,1,1,1,0,0,0],
+    [0,0,0,0,0,0,0,1,1,0,0,0,0]]));
+
+//广度遍历
+var maxAreaOfIsland2 = function(grid) {
+    let len = grid.length;
+    let wlen = grid[0].length;
+    let res = 0;
+    for(let i=0;i<len;i++){
+        for(let j=0;j<wlen;j++){
+            if(grid[i][j]==1){
+                res = Math.max(res,bfs(grid,i,j))
+            }
+        }
+    }
+    function bfs(grid,i,j) {
+        let m = grid.length,n=grid[0].length;
+        if(grid[i][j]==0){
+            return 0;
+        }
+        grid[i][j]=0;
+        let quene = [];
+        quene.push([i,j]);
+        let ress =1;
+        let dirs = [[1,0],[-1,0],[0,1],[0,-1]];
+        while(quene.length>0){
+            let fir = quene.shift();
+            for(let t=0;t<dirs.length;t++){
+                let x = fir[0]+dirs[t][0];
+                let y = fir[1]+dirs[t][1];
+                if(x<0 || x>=m || y<0 || y>=n || grid[x][y]==0){
+                    continue;
+                }
+                grid[x][y] = 0;
+                ress++;
+                quene.push([x,y])
+            }
+        }
+        return ress;
+    }
+    return res;
+};
+console.log(maxAreaOfIsland2([[0,0,1,0,0,0,0,1,0,0,0,0,0],
+    [0,0,0,0,0,0,0,1,1,1,0,0,0],
+    [0,1,1,0,1,0,0,0,0,0,0,0,0],
+    [0,1,0,0,1,1,0,0,1,0,1,0,0],
+    [0,1,0,0,1,1,0,0,1,1,1,0,0],
+    [0,0,0,0,0,0,0,0,0,0,1,0,0],
+    [0,0,0,0,0,0,0,1,1,1,0,0,0],
     [0,0,0,0,0,0,0,1,1,0,0,0,0]]))
