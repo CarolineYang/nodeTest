@@ -1,9 +1,14 @@
 // 62、不同路径
 // 63、不同路径2-有障碍物
 // 64、最短路径和
-//53、最大子序和
-//5、最长回文子串
+//53、最大子序和 dp[i] = Math.max(nums[i],dp[i-1]+nums[i])
+//5、最长回文子串 dp[i][j]为slice(i,j+1)的字符串
 //121、买卖股票的最佳时机
+// 300、最长上升子序列 dp[i] = Math.max(dp[j]+1,dp[i])
+// 354、俄罗斯套娃信封问题 题目关键排序（升序排width，同width降序）然后再最长上升子序列dp[i] = Math.max(dp[j]+1,dp[i])
+//221、最大正方形 dp[i][j] = Math.min(dp[i-1][j],dp[i][j-1],dp[i-1][j-1])+1
+//42、接雨水 dp[i] = Math.min(rightMax,leftMax)-nums[i]  dp[i]之和即为所求  其实好像叫贪心算法
+
 //dp[i][j] = dp[i-1][j]+dp[i][j-1]  第一行和第一列均为1
 
 

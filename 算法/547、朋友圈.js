@@ -38,7 +38,6 @@ var findCircleNum = function(M) {
             }
         }
     }
-
     return num
 };
 //自己搞的辣鸡  还有类似钥匙去房间的问题那个一样 都属于并集查找问题

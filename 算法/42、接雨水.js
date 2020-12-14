@@ -45,8 +45,8 @@ var trap = function(height) {
     return ans;
 };
 // console.log(trap( [0,1,2,0,3,0,1,2,0,0,4,2,1,2,5,0,1,2,0,2]))
-//dp 动态规划 贪心算法吧这是
 
+//dp 动态规划 贪心算法吧这是
 var trap = function(height) {
     let j,ans = 0;
     let l = [],r = [];
@@ -64,7 +64,6 @@ var trap = function(height) {
         if(min-height[i]>0){
             ans+=min-height[i];
         }
-
     }
     return ans;
 };
