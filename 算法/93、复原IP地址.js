@@ -12,20 +12,45 @@
 // 输出：["0.10.0.10","0.100.1.0"]
 //DFS BFS 动态规划 回溯算法加枝减
 var restoreIpAddresses = function(s) {
+    //枝减
+    if(s.length<4 || s.length>12){
+        return [];
+    };
     let res = [];
-
-    let visit = new Set();
     const loop = (arr,begin)=>{
+        let sum = 0;
+        arr.map(function (val) {
+            sum += val.length;
+        });
+        //枝减
+        let maxlength = (4-arr.length)*3;
+        if(s.length-sum>maxlength){
+            return;
+        }
         if(arr.length == 4){
-            res.push(arr)
+            if(sum == s.length){
+                res.push(arr.join('.'));
+            }
             return ;
         }
-        for(let i=0;i<s.length;i++){
-            if(i==0 && s[i]==0){
-                arr.push(0);
-                loop(arr);
+        for(let i=1;i<4;i++){
+            let target = s.substring(begin,begin+i);
+            if(begin+i<=s.length){
+                if(target.length>1 && target[0] == 0){
+                    break;
+                }else if(parseInt(target)>255){
+                    break;
+                }else{
+                    arr.push(target);
+                    loop(arr,begin+i);
+                    arr.pop();
+                }
+            }else{
+                break;
             }
         }
-    }
-    loop([],0)
+    };
+    loop([],0);
+    return res
 };
+restoreIpAddresses('101023')
