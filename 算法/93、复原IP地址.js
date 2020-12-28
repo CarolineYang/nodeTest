@@ -53,4 +53,4 @@ var restoreIpAddresses = function(s) {
     loop([],0);
     return res
 };
-restoreIpAddresses('101023')
+restoreIpAddresses('101023');
