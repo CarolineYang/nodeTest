@@ -31,27 +31,27 @@ var isValid = function(s) {
         let letter = s[i]
         switch(letter) {
             case "(": {
-                arr.push(letter)
+                arr.push(letter);
                 break;
             }
             case "[": {
-                arr.push(letter)
+                arr.push(letter);
                 break;
             }
             case "{": {
-                arr.push(letter)
+                arr.push(letter);
                 break;
             }
             case ")": {
-                if (arr.pop() !== "(") return false
+                if (arr.pop() !== "(") return false;
                 break;
             }
             case "]": {
-                if (arr.pop() !== "[") return false
+                if (arr.pop() !== "[") return false;
                 break;
             }
             case "}": {
-                if (arr.pop() !== "{") return false
+                if (arr.pop() !== "{") return false;
                 break;
             }
         }
