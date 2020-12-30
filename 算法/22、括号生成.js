@@ -8,7 +8,6 @@ var countAndSay = function(n) {
             console.log(res);
             return;
         }
-
         if (left < n) {
             help(cur + "(", left + 1, right)
         }
