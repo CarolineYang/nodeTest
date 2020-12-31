@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/es6/10、Symbol/Symbol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/11、Proxy和Reflect/Proxy和Reflect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/3、变量的解构赋值/aa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/3、变量的解构赋值/变量的解构赋值.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/4、字符串的扩展/字符串的扩展.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/7、数组的扩展/数组的扩展.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/148、排序链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/21、合并两个有序链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/23、合并K个升序列表.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/3、变量的解构赋值/变量的解构赋值.html" beforeDir="false" afterPath="$PROJECT_DIR$/es6/3、变量的解构赋值/变量的解构赋值.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/4、字符串的扩展/字符串的扩展.html" beforeDir="false" afterPath="$PROJECT_DIR$/es6/4、字符串的扩展/字符串的扩展.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/5、正则的扩展/正则的扩展.html" beforeDir="false" afterPath="$PROJECT_DIR$/es6/5、正则的扩展/正则的扩展.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/6、数值的扩展/数值的扩展.html" beforeDir="false" afterPath="$PROJECT_DIR$/es6/6、数值的扩展/数值的扩展.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/7、数组的扩展/数组的扩展.html" beforeDir="false" afterPath="$PROJECT_DIR$/es6/7、数组的扩展/数组的扩展.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.html" beforeDir="false" afterPath="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" beforeDir="false" afterPath="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" beforeDir="false" afterPath="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js高程/20、JSON/1、语法.html" beforeDir="false" afterPath="$PROJECT_DIR$/js高程/20、JSON/1、语法.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/22、括号生成.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/22、括号生成.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/93、复原IP地址.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/93、复原IP地址.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/深度遍历模板.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/深度遍历模板.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -50,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="459">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -77,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法/23、合并K个升序列表.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
+            <state relative-caret-position="783">
               <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -89,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法/21、合并两个有序链表.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="405">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -101,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法/148、排序链表.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="54">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -293,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.对象的扩展.js">
+  <component name="RunManager" selected="JavaScript Debug.数组的扩展.html">
     <configuration name="数组的扩展.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/es6/7、数组的扩展/数组的扩展.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -325,14 +303,10 @@
       <item itemvalue="JavaScript Debug.数组的扩展.html" />
       <item itemvalue="Node.js.数组的扩展.js" />
       <item itemvalue="Node.js.22、括号生成.js" />
-      <item itemvalue="Node.js.函数的扩展.js" />
-      <item itemvalue="Node.js.对象的扩展.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.对象的扩展.js" />
         <item itemvalue="Node.js.数组的扩展.js" />
-        <item itemvalue="Node.js.函数的扩展.js" />
         <item itemvalue="Node.js.22、括号生成.js" />
         <item itemvalue="JavaScript Debug.数组的扩展.html" />
       </list>
@@ -453,7 +427,8 @@
       <workItem from="1607995210427" duration="10735000" />
       <workItem from="1608964476480" duration="599000" />
       <workItem from="1609162230769" duration="2980000" />
-      <workItem from="1609292010097" duration="16422000" />
+      <workItem from="1609292010097" duration="18879000" />
+      <workItem from="1609377775578" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -623,11 +598,18 @@
       <option name="project" value="LOCAL" />
       <updated>1607943269756</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;es6/3、变量的解构赋值/变量的解构赋值.html">
+      <created>1609321439784</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1609321439785</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34739000" />
+    <option name="totallyTimeSpent" value="37795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -638,7 +620,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9315069" visible="true" weight="0.4099783" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9315069" weight="0.4099783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,7 +651,8 @@
     <MESSAGE value="1.7 js和XML" />
     <MESSAGE value="1.13 XHR" />
     <MESSAGE value="tinymce" />
-    <option name="LAST_COMMIT_MESSAGE" value="tinymce" />
+    <MESSAGE value="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;es6/3、变量的解构赋值/变量的解构赋值.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;es6/3、变量的解构赋值/变量的解构赋值.html" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1609164120285">
@@ -1005,16 +988,6 @@
         <state relative-caret-position="-1296" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法/148、排序链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -1043,37 +1016,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法/22、括号生成.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/21、合并两个有序链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/23、合并K个升序列表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1084,10 +1030,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/算法/22、括号生成.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/23、合并K个升序列表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/21、合并两个有序链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/148、排序链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="459">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
