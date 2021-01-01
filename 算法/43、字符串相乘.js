@@ -25,4 +25,14 @@ var multiply = function(num1, num2) {
 console.log(pos)
     return pos.join('')
 };
-multiply('0','0')
+multiply('11','22');
+var a = {
+    name:'ss',
+    age:10
+}
+console.log(Object.keys(a),Object.values(a))
+Object.keys(a).forEach((key,val)=>{
+    console.log(key,val,a[key])
+})
+let [x,y,z] = new Set(['a',"a","c"])
+console.log(x,y,z)

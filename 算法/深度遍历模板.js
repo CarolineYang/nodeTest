@@ -16,7 +16,7 @@ var DFS = function (n) {
                 visit[i] = 0;
             }
         }
-    }
+    };
     loop([]);
     console.log(res)
     return res;
