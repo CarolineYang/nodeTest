@@ -180,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,7 +214,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -428,7 +428,8 @@
       <workItem from="1608964476480" duration="599000" />
       <workItem from="1609162230769" duration="2980000" />
       <workItem from="1609292010097" duration="18879000" />
-      <workItem from="1609377775578" duration="599000" />
+      <workItem from="1609377775578" duration="632000" />
+      <workItem from="1609721832423" duration="1221000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -605,15 +606,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609321439785</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;es6/3、变量的解构赋值/变量的解构赋值.html">
+      <created>1609409462603</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1609409462603</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37795000" />
+    <option name="totallyTimeSpent" value="39049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
