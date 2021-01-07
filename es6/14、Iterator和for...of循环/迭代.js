@@ -42,39 +42,22 @@
 //     elements.forEach(doubleHeight);
 // };
 
-// setTimeout(()=>{
-//     console.log('time')
-// },0);
-// setImmediate(()=>{
-//     console.log('imme')
-// });
-// setTimeout(()=>{
-//     setTimeout(()=>{
-//         console.log('time1')
-//     },0)
-//     setImmediate(()=>{
-//         console.log('imme1')
-//     })
-// },0)
-// setImmediate(()=>{
-//     console.log('immessss')
-//     setImmediate(()=>{
-//         console.log('immeAAAAA')
-//     });
-//     process.nextTick(()=>{
-//         console.log('provee')
-//     })
-// });
-setTimeout(()=>{
-    console.log('o');
-    process.nextTick(()=>{
-        console.log(1);
-        process.nextTick(()=>{
-            console.log(2)
-        })
-    })
-    process.nextTick(()=>{
-        console.log(3)
-    })
-    console.log('op');
-},0)
+let  generator = function *() {
+    yield 1;
+    yield* [2,3,4];
+    yield 5;
+}
+let a = generator();
+console.log(a.next());
+console.log(a.next());
+console.log(a.next());
+console.log(a.next());
+console.log(a.next());
+console.log(a.next());
+// while(a){
+//     console.log(a.next())
+// }
+var aa = 'hi';
+var it = aa[Symbol.iterator]();
+console.log(it.next())
+console.log(it.next())
