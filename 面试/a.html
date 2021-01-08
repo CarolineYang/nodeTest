@@ -5,10 +5,27 @@
     <title>Title</title>
 </head>
 <body >
-<div style="display: flex;height:100vh;width: 100vw;">
-    <span style="width: 300px;height: 300px;border:1px solid red;background-color:red;align-items: center;flex:1;justify-content: center">
-    </span>
-</div>
+<section id="father">
+    <style>
+        #father{
+            background: pink;
+
+        }
+        #father .left{
+            background: red;
+            width: 100px;
+            height: 100px;
+            float: left;
+        }
+        #father .right{
+            background: grey;
+            overflow: auto;
+            height: 120px;
+        }
+    </style>
+    <div class="left"></div>
+    <div class="right"></div>
+</section>
 
 <script>
 
