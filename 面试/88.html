@@ -1,18 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>forvue</title>
 </head>
 <body>
-<p>dd<span class="medical-select widget" data-id="82" data-info="{&quot;id&quot;:82,&quot;desc&quot;:&quot;事实上&quot;,&quot;placeholder&quot;:&quot;宿舍&quot;,&quot;required&quot;:1,&quot;del&quot;:1,&quot;modifiable&quot;:1,&quot;type&quot;:&quot;select&quot;,&quot;knowledgeId&quot;:null,&quot;version&quot;:null,&quot;multi&quot;:1,&quot;nodeId&quot;:null,&quot;nodeName&quot;:null,&quot;options&quot;:[{&quot;optionKey&quot;:0,&quot;optionValue&quot;:&quot;宿舍&quot;,&quot;prefixCpt&quot;:{&quot;id&quot;:81,&quot;desc&quot;:&quot;23333&quot;,&quot;type&quot;:&quot;number&quot;},&quot;suffixCpt&quot;:null},{&quot;optionKey&quot;:1,&quot;optionValue&quot;:&quot;宿舍啊&quot;,&quot;prefixCpt&quot;:{&quot;id&quot;:72,&quot;desc&quot;:&quot;额&quot;,&quot;type&quot;:&quot;label&quot;},&quot;suffixCpt&quot;:null},{&quot;optionKey&quot;:2,&quot;optionValue&quot;:&quot;啊啊&quot;,&quot;prefixCpt&quot;:{&quot;id&quot;:1,&quot;desc&quot;:&quot;主诉标签&quot;,&quot;type&quot;:&quot;label&quot;},&quot;suffixCpt&quot;:null}]}"><span class="medical-select-text">宿舍，宿舍啊</span>
-    <div class="select-div" style="display: none;">
-    <ul class="medical-ul">
-    <li class="medical-li" contenteditable="false" data-info="{&quot;optionKey&quot;:0,&quot;optionValue&quot;:&quot;宿舍&quot;,&quot;prefixCpt&quot;:{&quot;id&quot;:81,&quot;desc&quot;:&quot;23333&quot;,&quot;type&quot;:&quot;number&quot;},&quot;suffixCpt&quot;:null}">宿舍<em class="iconfont icon-duihao" style="visibility: visible;">&nbsp;</em></li>
-    <li class="medical-li" contenteditable="false" data-info="{&quot;optionKey&quot;:1,&quot;optionValue&quot;:&quot;宿舍啊&quot;,&quot;prefixCpt&quot;:{&quot;id&quot;:72,&quot;desc&quot;:&quot;额&quot;,&quot;type&quot;:&quot;label&quot;},&quot;suffixCpt&quot;:null}">宿舍啊<em class="iconfont icon-duihao" style="visibility: visible;">&nbsp;</em></li>
-    <li class="medical-li" contenteditable="false" data-info="{&quot;optionKey&quot;:2,&quot;optionValue&quot;:&quot;啊啊&quot;,&quot;prefixCpt&quot;:{&quot;id&quot;:1,&quot;desc&quot;:&quot;主诉标签&quot;,&quot;type&quot;:&quot;label&quot;},&quot;suffixCpt&quot;:null}">啊啊<em class="iconfont icon-duihao" style="visibility: hidden;">&nbsp;</em></li>
-    </ul>
-    </div>
-</span>&nbsp;</p>
+<input type="text" id="textInput">
+输入：<span id="textSpan"></span>
+<script>
+    var obj = {},
+        textInput = document.querySelector('#textInput'),
+        textSpan = document.querySelector('#textSpan');
+
+    Object.defineProperty(obj, 'foo', {
+        set: function (newValue) {
+            textInput.value = newValue;
+            textSpan.innerHTML = newValue;
+        }
+    });
+
+    textInput.addEventListener('keyup', function (e) {
+        obj.foo = e.target.value;
+    });
+
+</script>
 </body>
 </html>
