@@ -56,6 +56,7 @@ var trap = function(height) {
     for(let i=1;i<height.length;i++){
         l[i] = Math.max(l[i-1],height[i])
     }
+    console.log(l)
     for(let i=n-2;i>=0;i--){
         r[i] = Math.max(r[i+1],height[i])
     }

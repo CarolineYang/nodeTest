@@ -1,0 +1,18 @@
+.question-page .state_5.isActive,.recommend-question-page .state_5.isActive {
+    color: #fff;
+    background-color: #FCF8E3;
+    border-color: #FCF8E3;
+    box-shadow: -1px 0 0 0 #FCF8E3;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.question-page .state_6.isActive,.recommend-question-page .state_6.isActive {
+    color: #fff;
+    background-color: #F2DEDE;
+    border-color: #F2DEDE;
+    box-shadow: -1px 0 0 0 #F2DEDE;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

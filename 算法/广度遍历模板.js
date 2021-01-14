@@ -12,11 +12,11 @@ var BFS = function (n) {
             }
             for(let j=1;j<=n;j++){
                 if(fir.indexOf(j)==-1){
-                    quene.push(fir.concat([j]));
+                    quene.push(fir.concat(j));
                 }
             }
         }
     }
     return res
 };
-console.log(BFS(4));
+console.log(BFS(3));

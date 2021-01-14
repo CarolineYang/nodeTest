@@ -2,17 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/主诉.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/全选和取消.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/继承.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/序列化二叉树.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/promise原理.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/this指向.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/变量提升.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/图片懒加载.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/圣杯布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/手写jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/数组扁平化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/数组转化为树形.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/正则环视.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/连接转驼峰.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/隐式转换.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es6/18、Class/class.js" beforeDir="false" afterPath="$PROJECT_DIR$/es6/18、Class/class.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/42、接雨水.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/42、接雨水.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/字母异位词组合.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/字母异位词组合.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/广度遍历模板.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/广度遍历模板.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/1、函数声明不可执行.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/1、函数声明不可执行.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/88.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试/88.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/Object.observe.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/Object.observe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试/bfc块级盒子模型.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/js执行模型.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/js执行模型.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/扁平化数组，和环.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/扁平化数组，和环.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/继承.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/防抖节流.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/防抖节流.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/node_modules/" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,93 +38,83 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/主诉.js">
+        <entry file="file://$PROJECT_DIR$/算法/21、合并两个有序链表.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="594">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/全选和取消.js">
+        <entry file="file://$PROJECT_DIR$/算法/序列化二叉树.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="39" column="11" lean-forward="true" selection-end-line="66" />
+            <state relative-caret-position="459">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/圣杯布局.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/图片懒加载.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/es6/18、Class/class.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/3、无重复字符的最长子串.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/14、最长公共前缀.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/17、电话号码的字母组合.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法/300、最长上升子序列.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-243">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/面试/继承.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/a.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/es6/18、Class/class.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/发布订阅.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/手写promise.all.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/防抖节流.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/160、相交链表.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -119,11 +126,11 @@
       <list>
         <option value="tsconfig.json" />
         <option value="package.json" />
-        <option value="CSS File" />
         <option value="xml" />
         <option value="XSLT Stylesheet" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
     <option name="SCHEME" value="Project" />
@@ -168,33 +175,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/es6/13、Set和Map数据结构/Set和Map数据结构.js" />
-        <option value="$PROJECT_DIR$/es6/13、Set和Map数据结构/Set和Map数据结构.html" />
-        <option value="$PROJECT_DIR$/算法/143、重排链表.js" />
-        <option value="$PROJECT_DIR$/算法/160、相交链表.js" />
-        <option value="$PROJECT_DIR$/面试/Object.observe.js" />
-        <option value="$PROJECT_DIR$/es6/14、Iterator和for...of循环/Iterator和for...of循环.html" />
-        <option value="$PROJECT_DIR$/es6/14、Iterator和for...of循环/迭代.js" />
-        <option value="$PROJECT_DIR$/es6/18、Class/class.js" />
-        <option value="$PROJECT_DIR$/面试/手写instanceof.js" />
-        <option value="$PROJECT_DIR$/面试/js执行模型.js" />
-        <option value="$PROJECT_DIR$/面试/发布订阅.js" />
-        <option value="$PROJECT_DIR$/面试/手写promise.all.js" />
-        <option value="$PROJECT_DIR$/面试/防抖节流.js" />
-        <option value="$PROJECT_DIR$/面试/a.html" />
-        <option value="$PROJECT_DIR$/面试/扁平化数组，和环.js" />
-        <option value="$PROJECT_DIR$/面试/主诉.js" />
-        <option value="$PROJECT_DIR$/面试/全选和取消.js" />
+        <option value="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" />
         <option value="$PROJECT_DIR$/面试/继承.js" />
-        <option value="$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html" />
+        <option value="$PROJECT_DIR$/es6/18、Class/class.js" />
       </list>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="14" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="1ly8Mwjcn2qi1Uii7dgzIO35fdR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -226,7 +211,7 @@
             <path>
               <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="插件" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
@@ -250,8 +235,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue3-demo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -295,23 +280,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.css实现宽度和浏览器窗口一样的正方形.html">
-    <configuration name="a.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/面试/a.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.class.js">
+    <configuration name="17、电话号码的字母组合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="css实现宽度和浏览器窗口一样的正方形.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/面试/css实现宽度和浏览器窗口一样的正方形.html" useBuiltInWebServerPort="true">
+    <configuration name="56、合并区间.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/56、合并区间.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="发布订阅.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/发布订阅.js" working-dir="$PROJECT_DIR$">
+    <configuration name="继承.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/继承.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="主诉.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/主诉.js" working-dir="$PROJECT_DIR$">
+    <configuration name="数组转化为树形.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组转化为树形.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
       <method v="2" />
     </configuration>
     <configuration name="扁平化数组，和环.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/扁平化数组，和环.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="对象的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" working-dir="$PROJECT_DIR$/es6/9、对象的扩展">
+      <method v="2" />
+    </configuration>
+    <configuration name="深度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/深度遍历模板.js" working-dir="$PROJECT_DIR$/算法">
+      <method v="2" />
+    </configuration>
+    <configuration name="隐式转换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/隐式转换.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$/算法">
+      <method v="2" />
+    </configuration>
+    <configuration name="字母异位词组合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/字母异位词组合.js" working-dir="$PROJECT_DIR$/算法">
       <method v="2" />
     </configuration>
     <configuration name="函数的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" working-dir="$PROJECT_DIR$">
@@ -326,26 +335,29 @@
     <configuration name="函数的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$">
+    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
       <method v="2" />
     </configuration>
-    <configuration name="js执行模型.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/js执行模型.js" working-dir="$PROJECT_DIR$">
+    <configuration name="class.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/18、Class/class.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="this指向.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/this指向.js" working-dir="$PROJECT_DIR$/面试">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.a.html" />
-      <item itemvalue="Node.js.js执行模型.js" />
-      <item itemvalue="Node.js.发布订阅.js" />
-      <item itemvalue="Node.js.主诉.js" />
-      <item itemvalue="JavaScript Debug.css实现宽度和浏览器窗口一样的正方形.html" />
+      <item itemvalue="Node.js.this指向.js" />
+      <item itemvalue="Node.js.56、合并区间.js" />
+      <item itemvalue="Node.js.17、电话号码的字母组合.js" />
+      <item itemvalue="Node.js.继承.js" />
+      <item itemvalue="Node.js.class.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.css实现宽度和浏览器窗口一样的正方形.html" />
-        <item itemvalue="Node.js.主诉.js" />
-        <item itemvalue="JavaScript Debug.a.html" />
-        <item itemvalue="Node.js.发布订阅.js" />
-        <item itemvalue="Node.js.js执行模型.js" />
+        <item itemvalue="Node.js.class.js" />
+        <item itemvalue="Node.js.继承.js" />
+        <item itemvalue="Node.js.17、电话号码的字母组合.js" />
+        <item itemvalue="Node.js.56、合并区间.js" />
+        <item itemvalue="Node.js.this指向.js" />
       </list>
     </recent_temporary>
   </component>
@@ -472,9 +484,11 @@
       <workItem from="1609897066635" duration="2854000" />
       <workItem from="1609911217496" duration="4196000" />
       <workItem from="1609983389025" duration="10177000" />
-      <workItem from="1610069760597" duration="10719000" />
-      <workItem from="1610500579377" duration="2433000" />
-      <workItem from="1610587208744" duration="4365000" />
+      <workItem from="1610069760597" duration="10587000" />
+      <workItem from="1610255991118" duration="9499000" />
+      <workItem from="1610326942561" duration="13850000" />
+      <workItem from="1610440309829" duration="6221000" />
+      <workItem from="1610548433598" duration="6877000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -666,28 +680,28 @@
       <updated>1610013587641</updated>
     </task>
     <task id="LOCAL-00028" summary="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1610100434820</created>
+      <created>1610467028919</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1610100434820</updated>
+      <updated>1610467028919</updated>
     </task>
     <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49202000" />
+    <option name="totallyTimeSpent" value="2599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12802951" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21548998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -722,70 +736,82 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="268" key="GridCell.Tab.0.bottom" timestamp="1609659822188">
+    <state x="98" y="0" key="CommitChangelistDialog2" timestamp="1610467028095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609659822188" />
-    <state width="1515" height="268" key="GridCell.Tab.0.center" timestamp="1609659822188">
+    <state x="98" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610467028095" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610440331260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609659822188" />
-    <state width="1515" height="268" key="GridCell.Tab.0.left" timestamp="1609659822188">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610440331260" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1610558344853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609659822188" />
-    <state width="1515" height="268" key="GridCell.Tab.0.right" timestamp="1609659822188">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610558344853" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1610558344853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609659822188" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1609164014742">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610558344853" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1610558344853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1609164014741">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610558344853" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1610558344853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609164014741" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1609164014741">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610558344853" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609164014741" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1609164014741">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609164014741" />
-    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
-    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1609164014742">
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1610549252448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1609164014742" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1610549252448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1610549252448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1610467030989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610467030989" />
     <state x="463" y="203" key="git4idea.merge.GitPullDialog" timestamp="1609162706335">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -883,6 +909,16 @@
           <line>4</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/算法/659、岛屿的最大面积.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/面试/数组扁平化.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -896,63 +932,94 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/es6/13、Set和Map数据结构/Set和Map数据结构.js">
+    <entry file="file://$PROJECT_DIR$/面试/主诉.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="4" selection-start-column="3" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="135">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/es6/13、Set和Map数据结构/Set和Map数据结构.html">
+    <entry file="file://$PROJECT_DIR$/算法/752、打开转盘所（BNS和DNS）.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/42、接雨水.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="359">
+          <caret line="58" selection-start-line="58" selection-end-line="58" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/es6/14、Iterator和for...of循环/Iterator和for...of循环.html">
+    <entry file="file://$PROJECT_DIR$/面试/全选和取消.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        <state relative-caret-position="298">
+          <caret line="39" column="11" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/53、最大子序和.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#5;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#6;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/es6/14、Iterator和for...of循环/迭代.js">
+    <entry file="file://$PROJECT_DIR$/算法/50、pow 计算快速幂运算 二分法.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+        <state relative-caret-position="440">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/37、解数独.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/算法/二叉树的层序遍历.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="-297">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试/Object.observe.js">
+    <entry file="file://$PROJECT_DIR$/算法/回溯算法（全排列）.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试/js执行模型.js">
+    <entry file="file://$PROJECT_DIR$/算法/字母异位词组合.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/221、最大正方形.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        <state relative-caret-position="351">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/56、合并区间.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/广度遍历模板.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/20、有效括号的判断.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/动态规划模板.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -961,128 +1028,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/算法/21、合并两个有序链表.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="594">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法/143、重排链表.js">
+    <entry file="file://$PROJECT_DIR$/算法/序列化二叉树.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法/142、环形链表2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#129#739#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/手写instanceof.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/2、Object.is 和== ===.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/1、函数声明不可执行.js">
+    <entry file="file://$PROJECT_DIR$/面试/圣杯布局.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试/扁平化数组，和环.js">
+    <entry file="file://$PROJECT_DIR$/面试/图片懒加载.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/3、无重复字符的最长子串.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/14、最长公共前缀.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法/17、电话号码的字母组合.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="567">
+          <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试/a.html">
+    <entry file="file://$PROJECT_DIR$/算法/300、最长上升子序列.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="-243">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/继承.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/es6/18、Class/class.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/发布订阅.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/手写promise.all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/防抖节流.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/160、相交链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/主诉.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/全选和取消.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="39" column="11" lean-forward="true" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/继承.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="270">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
