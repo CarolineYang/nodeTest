@@ -5,6 +5,12 @@ function flatten(arr){
     }
     return arr;
 }
+function fa(arr){
+    while(arr.some((item)=>Array.isArray(item))){
+        arr = [].concat(...arr)
+    }
+    return arr
+}
 // function flatten(arr) {
 //     var res = [];
 //     arr.map(item => {

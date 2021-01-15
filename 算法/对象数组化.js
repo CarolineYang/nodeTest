@@ -1,0 +1,1 @@
+var a={ name:'zhangsan', age:23, height:170 }; function obj_arr(obj){ var arr=[]; for(var k in obj){  arr[k]=obj[k]; } for(var k in  obj){  console.log(k,arr[k]); } } obj_arr(a); console.log(typeof obj_arr(a));

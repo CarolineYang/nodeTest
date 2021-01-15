@@ -4,7 +4,7 @@ class Person{
         this.age = age;
     }
     sayhi(){
-        console.log(this.name,'hellp',this.age)
+        console.log('aa',this.name,'hellp',this.age)
     }
 }
 let a = new Person('ypp',28);
@@ -15,10 +15,10 @@ class Child extends Person{
         super(name,age);
         this.color = color;
     }
-    // sayhi() {
-    //     super.sayhi();
-    //     // console.log(this.name,this.age)
-    // }
+    sayhi() {
+        // super.sayhi();
+        console.log('dd',this.name,this.age)
+    }
 }
 let b = new Child('ypps',237,'red')
 console.log(b)

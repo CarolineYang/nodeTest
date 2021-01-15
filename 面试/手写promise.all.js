@@ -31,16 +31,17 @@ class Promsie {
 
 }
 
+
 Promise.prototype.all=function (iterators) {
     const promises = Array.from(iterators);
     let resultList = [];
     const len = promises.length;
     let count = 0;
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve,reject)=>{
         promises.forEach((item,index)=>{
             Promise.resolve(item).then((res)=>{
-                count++;
                 resultList[index] = res;
+                count++;
                 if(count == len){
                     resolve(resultList)
                 }

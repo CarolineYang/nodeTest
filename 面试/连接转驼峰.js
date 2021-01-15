@@ -4,6 +4,9 @@ let str = 'get-element-by-id'
 // }).replace(/-/g, '')
 // console.log(res)
 // let str = 'get-element-by-id'
+str.replace(/-\w/g,(a)=>{
+    return a.toUpperCase()
+}).replace(/-/g,"")
 function toCamelCase (str) {
     let str1 = str.split('-')
     for (let i = 1; i < str1.length; i++) {

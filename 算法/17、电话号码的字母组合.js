@@ -19,6 +19,6 @@ var letterCombinations = function(digits) {
     return res
 };
 console.log(letterCombinations("253"))
-for(let j of 'ssssa'){
-    console.log(j)
-}
+// for(let j of 'ssssa'){
+//     console.log(j)
+// }
