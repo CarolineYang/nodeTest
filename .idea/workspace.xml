@@ -2,34 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/序列化二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/promise原理.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/this指向.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/变量提升.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/图片懒加载.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/圣杯布局.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/手写jsonp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/数组扁平化.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/数组转化为树形.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/正则环视.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/连接转驼峰.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/隐式转换.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试/函数柯里化.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/18、Class/class.js" beforeDir="false" afterPath="$PROJECT_DIR$/es6/18、Class/class.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/42、接雨水.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/42、接雨水.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/字母异位词组合.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/字母异位词组合.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/广度遍历模板.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法/广度遍历模板.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/1、函数声明不可执行.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/1、函数声明不可执行.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/88.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试/88.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/Object.observe.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/Object.observe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试/bfc块级盒子模型.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试/js执行模型.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/js执行模型.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/扁平化数组，和环.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/扁平化数组，和环.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/继承.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/防抖节流.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/防抖节流.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/this指向.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/this指向.js" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,60 +20,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/21、合并两个有序链表.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/序列化二叉树.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/圣杯布局.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/面试/图片懒加载.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/变量提升.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/发布订阅.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/函数柯里化.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/2、Object.is 和== ===.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/bfc块级盒子模型.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-539" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/es6/18、Class/class.js">
+        <entry file="file://$PROJECT_DIR$/面试/js执行模型.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/3、无重复字符的最长子串.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/14、最长公共前缀.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/17、电话号码的字母组合.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="568">
+              <caret line="137" column="26" lean-forward="true" selection-start-line="137" selection-start-column="26" selection-end-line="137" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -100,23 +81,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法/300、最长上升子序列.js">
+        <entry file="file://$PROJECT_DIR$/面试/手写promise.all.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-243">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="675">
+              <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/继承.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/面试/扁平化数组，和环.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -178,8 +153,17 @@
         <option value="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" />
         <option value="$PROJECT_DIR$/面试/继承.js" />
         <option value="$PROJECT_DIR$/es6/18、Class/class.js" />
+        <option value="$PROJECT_DIR$/面试/函数柯里化.js" />
+        <option value="$PROJECT_DIR$/面试/this指向.js" />
+        <option value="$PROJECT_DIR$/面试/js执行模型.js" />
       </list>
     </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="258" />
+    <option name="y" value="14" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="1ly8Mwjcn2qi1Uii7dgzIO35fdR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -211,11 +195,6 @@
             <path>
               <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="面试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -235,7 +214,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue3-demo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -280,38 +259,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.class.js">
-    <configuration name="17、电话号码的字母组合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/17、电话号码的字母组合.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="56、合并区间.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/56、合并区间.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.js执行模型.js">
     <configuration name="继承.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/继承.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="数组转化为树形.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组转化为树形.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="扁平化数组，和环.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/扁平化数组，和环.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="对象的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" working-dir="$PROJECT_DIR$/es6/9、对象的扩展">
-      <method v="2" />
-    </configuration>
-    <configuration name="深度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/深度遍历模板.js" working-dir="$PROJECT_DIR$/算法">
+    <configuration name="函数柯里化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/函数柯里化.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="隐式转换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/隐式转换.js" working-dir="$PROJECT_DIR$/面试">
@@ -338,26 +290,53 @@
     <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
       <method v="2" />
     </configuration>
+    <configuration name="数组转化为树形.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组转化为树形.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="扁平化数组，和环.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/扁平化数组，和环.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="对象的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" working-dir="$PROJECT_DIR$/es6/9、对象的扩展">
+      <method v="2" />
+    </configuration>
+    <configuration name="深度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/深度遍历模板.js" working-dir="$PROJECT_DIR$/算法">
+      <method v="2" />
+    </configuration>
     <configuration name="class.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/18、Class/class.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="this指向.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/this指向.js" working-dir="$PROJECT_DIR$/面试">
+    <configuration name="js执行模型.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/js执行模型.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="this指向.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/this指向.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.this指向.js" />
-      <item itemvalue="Node.js.56、合并区间.js" />
-      <item itemvalue="Node.js.17、电话号码的字母组合.js" />
       <item itemvalue="Node.js.继承.js" />
       <item itemvalue="Node.js.class.js" />
+      <item itemvalue="Node.js.函数柯里化.js" />
+      <item itemvalue="Node.js.this指向.js" />
+      <item itemvalue="Node.js.js执行模型.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.class.js" />
+        <item itemvalue="Node.js.js执行模型.js" />
         <item itemvalue="Node.js.继承.js" />
-        <item itemvalue="Node.js.17、电话号码的字母组合.js" />
-        <item itemvalue="Node.js.56、合并区间.js" />
         <item itemvalue="Node.js.this指向.js" />
+        <item itemvalue="Node.js.函数柯里化.js" />
+        <item itemvalue="Node.js.class.js" />
       </list>
     </recent_temporary>
   </component>
@@ -489,6 +468,7 @@
       <workItem from="1610326942561" duration="13850000" />
       <workItem from="1610440309829" duration="6221000" />
       <workItem from="1610548433598" duration="6877000" />
+      <workItem from="1610674664864" duration="7260000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -686,11 +666,18 @@
       <option name="project" value="LOCAL" />
       <updated>1610467028919</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1610618646079</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1610618646079</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2599000" />
+    <option name="totallyTimeSpent" value="9917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -968,13 +955,6 @@
     <entry file="file://$PROJECT_DIR$/算法/50、pow 计算快速幂运算 二分法.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法/37、解数独.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1028,8 +1008,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/算法/21、合并两个有序链表.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="837">
+          <caret line="34" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -1039,14 +1019,11 @@
     <entry file="file://$PROJECT_DIR$/算法/序列化二叉树.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/面试/圣杯布局.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/图片懒加载.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/算法/3、无重复字符的最长子串.js">
@@ -1057,7 +1034,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/算法/17、电话号码的字母组合.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
+        <state relative-caret-position="459">
           <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="23" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -1067,24 +1044,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/算法/300、最长上升子序列.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试/继承.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/es6/18、Class/class.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/this指向.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/防抖节流.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/隐式转换.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/连接转驼峰.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/继承.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/手写promise.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/扁平化数组，和环.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/图片懒加载.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/变量提升.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/发布订阅.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/函数柯里化.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/2、Object.is 和== ===.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/bfc块级盒子模型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-539" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试/js执行模型.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="137" column="26" lean-forward="true" selection-start-line="137" selection-start-column="26" selection-end-line="137" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

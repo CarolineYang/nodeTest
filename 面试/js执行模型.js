@@ -48,7 +48,7 @@
 // }
 // console.log('script start');
 // setTimeout(function(){
-//     console.log('setTimeout')
+//     console.log('setTimeout');
 // },0)
 // async1();
 // new Promise(function(resolve){
@@ -98,5 +98,50 @@
 // })
 //
 // console.log('script end');
-console.log(typeof(NaN));
-console.log("str"== new String('str'))
+// console.log(typeof NaN);
+// console.log("str"== new String('str'))
+console.log('1');
+
+// as setTimeout1
+setTimeout(function() {
+    console.log('2');
+    // as process2
+    process.nextTick(function() {
+        console.log('3');
+    })
+    new Promise(function(resolve) {
+        console.log('4');
+        resolve();
+    }).then(function() {
+        // promise.then__setTimeout1
+        console.log('5')
+    })
+})
+
+// as process1
+process.nextTick(function() {
+    console.log('6');
+})
+
+new Promise(function(resolve) {
+    console.log('7');
+    resolve();
+}).then(function() {
+    console.log('8')
+})
+
+// as setTimeout2
+setTimeout(function() {
+    console.log('9');
+    // as process3
+    process.nextTick(function() {
+        console.log('10');
+    })
+    new Promise(function(resolve) {
+        console.log('11');
+        resolve();
+    }).then(function() {
+        // promise.then__setTimeout2
+        console.log('12')
+    })
+})

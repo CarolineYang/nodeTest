@@ -38,13 +38,14 @@ obj.say();
 var obj2 = {
     name:'obj2',
     hi(){
+        console.log(this)
         return () => {
             console.log(this.name)
         }
     },
     say(){
         return function () {
-            console.log('s',this,this.name)
+            console.log('s',this)
         }
     }
 }
