@@ -39,7 +39,24 @@ function f(arr,i,res) {
 }
 function aa(obj){
     let res = [];
-    f([obj],0,res)
+    f([obj],0,res);
     return res
 }
-console.log(aa(obj))
+// console.log(aa(obj))
+
+
+function func(root){
+    let queue = [root];
+    let res = [];
+    while(queue.length){
+        let node = queue.shift();  // 这里最开始把unshift记成队头弹出，爆栈了，向面试官申请用vscode调试一步一步测才发现，-_-||
+        res.push(node.val);
+        if(node.children !== undefined){
+            node.children.forEach(v=>queue.push(v))
+        }
+    }
+    return res
+}
+
+const res = func(obj)
+console.log(res)
