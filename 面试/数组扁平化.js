@@ -25,6 +25,7 @@ function fa(arr){
 // function flatten(arr) {
 //     return arr.toString().split(',').map(function(item) {
 //         return Number(item);
+//         return +item;
 //     })
 // }
 // function flatten(arr) {

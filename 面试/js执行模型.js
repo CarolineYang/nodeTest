@@ -100,48 +100,73 @@
 // console.log('script end');
 // console.log(typeof NaN);
 // console.log("str"== new String('str'))
-console.log('1');
+// console.log('1');
+//
+// // as setTimeout1
+// setTimeout(function() {
+//     console.log('2');
+//     // as process2
+//     process.nextTick(function() {
+//         console.log('3');
+//     })
+//     new Promise(function(resolve) {
+//         console.log('4');
+//         resolve();
+//     }).then(function() {
+//         // promise.then__setTimeout1
+//         console.log('5')
+//     })
+// })
+//
+// // as process1
+// process.nextTick(function() {
+//     console.log('6');
+// })
+//
+// new Promise(function(resolve) {
+//     console.log('7');
+//     resolve();
+// }).then(function() {
+//     console.log('8')
+// })
+//
+// // as setTimeout2
+// setTimeout(function() {
+//     console.log('9');
+//     // as process3
+//     process.nextTick(function() {
+//         console.log('10');
+//     })
+//     new Promise(function(resolve) {
+//         console.log('11');
+//         resolve();
+//     }).then(function() {
+//         // promise.then__setTimeout2
+//         console.log('12')
+//     })
+// })
 
-// as setTimeout1
-setTimeout(function() {
-    console.log('2');
-    // as process2
-    process.nextTick(function() {
-        console.log('3');
-    })
-    new Promise(function(resolve) {
-        console.log('4');
+setTimeout(function () {
+    console.log(2);
+    new Promise(function (resolve) {
+        console.log(3);
         resolve();
-    }).then(function() {
-        // promise.then__setTimeout1
-        console.log('5')
+    }).then(()=>{
+        console.log(4);
     })
-})
-
-// as process1
-process.nextTick(function() {
-    console.log('6');
-})
-
-new Promise(function(resolve) {
-    console.log('7');
+});
+new Promise(function (resolve) {
+    console.log(5);
     resolve();
-}).then(function() {
-    console.log('8')
-})
-
-// as setTimeout2
-setTimeout(function() {
-    console.log('9');
-    // as process3
-    process.nextTick(function() {
-        console.log('10');
-    })
-    new Promise(function(resolve) {
-        console.log('11');
+}).then(()=>{
+    console.log(6);
+});
+setTimeout(function () {
+    console.log(7);
+    new Promise(function (resolve) {
+        console.log(8);
         resolve();
-    }).then(function() {
-        // promise.then__setTimeout2
-        console.log('12')
+    }).then(()=>{
+        console.log(9);
     })
-})
+});
