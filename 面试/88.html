@@ -7,6 +7,12 @@
 <body>
 <input type="text" id="textInput">
 输入：<span id="textSpan"></span>
+<button>加法 </button>
+<ol>
+    <li>sub li element</li>
+    <li>sub li element</li>
+    <li>sub li element</li>
+</ol>
 <script>
     var obj = {},
         textInput = document.querySelector('#textInput'),
@@ -22,7 +28,40 @@
     textInput.addEventListener('keyup', function (e) {
         obj.foo = e.target.value;
     });
+    var that;
+    class Father{//父类
+        constructor(x,y){
+            that = this;
+            this.x=x;
+            this.y=y;
+            this.btn=document.querySelector('button');
+            this.btn.onclick=this.sum;
+        }
+        sum(){
+            //这里的this 指向btn,因为btn调用了这个方法，
+            console.log(that.x+that.y);//that存的是构造函数里的this
+        }
+        say(){
 
+            console.log("Father");
+        }
+    }
+    class Son extends Father{//子 继承父
+        constructor(x,y){
+            super(x,y);//调用父类的构造函数,super必须放在子类this之前
+            this.x=x;
+            this.y=y;
+        }
+        say(){
+            console.log("Son");
+            super.say()
+        }
+    }
+
+    var son = new Son(2,6);
+    son.sum();
+    var sonTwo = new Son();
+    sonTwo.say();
 </script>
 </body>
 </html>

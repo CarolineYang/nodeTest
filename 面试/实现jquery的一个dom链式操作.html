@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="add">
+
+</div>
+<script>
+    class Dom{
+        constructor(selector){
+            this.nodes = document.querySelectorAll(selector);
+        }
+        html(){
+            let html = "";
+            this.nodes.forEach((node)=>{
+                html.push(node.innerHTML)
+            });
+            return  html;
+        }
+        css(attr){
+            let attrs = [];
+            this.nodes.forEach(node => { attrs.push(node.style[attr]); });
+            return attrs;
+        }
+        setCss(obj){
+            this.nodes.forEach(node => {
+                Object.keys(obj).forEach(attr => {
+                    node.style[attr] = obj[attr];
+                });
+            });
+            return this;
+        };
+        setHtml(htmlText){
+            this.nodes.forEach(node => {
+               node.innerHTML = htmlText;
+            });
+            return this;
+        }
+    }
+    function dom(selector) {
+        return new DOM(selector);
+    }
+</script>
+</body>
+</html>
