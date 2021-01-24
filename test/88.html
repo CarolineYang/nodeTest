@@ -75,34 +75,16 @@
     son.sum();
     var sonTwo = new Son();
     sonTwo.say();
-    function hh(aa){
-        console.log('chuan',aa)
-        fetch('./b.json').then((res2)=>{
-            console.log(res2)
-            return res2.json();
-
-        }).then((res3)=>{
-            console.log(res3)
-
-        });
+    function hh(t){
+        Promise.resolve(t+'sss')
     }
-    function hh1(aa){
-        console.log('chuan111',aa)
-        fetch('./a.json').then((res)=>{
-            console.log(res)
-            return res.json();
-
-        }).then((res)=>{
-            resolve(res)
-            console.log(res)
-
-        });
+    function hh1(t){
+        Promise.resolve(t+'111')
     }
     async function fetchAll(arr){
         let p ;
         for(let fn of arr){
-            p = await fn(p)
-            console.log('a',p)
+            p = await fn(p);
         }
 
         return p;

@@ -2,69 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/rgb转字符串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/Dep.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/Observer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/Watcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/arrayMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/defineReactive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/observe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/set源码.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vue响应式/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/函数的柯里化.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/原生ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/堆内存和栈内存.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/封装两次fetch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/查找两个节点的最近的一个共同父节点，可以包括节点自身.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/根据包名创造空间.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/解析url.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/ab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ff.html" beforeDir="false" afterPath="$PROJECT_DIR$/ff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/1、函数声明不可执行.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/1、函数声明不可执行.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/2、Object.is 和== ===.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/2、Object.is 和== ===.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/88.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/88.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/Object.observe.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/Object.observe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/bfc块级盒子模型.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/bfc块级盒子模型.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/css实现宽度和浏览器窗口一样的正方形.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/filter源码和深度克隆.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/filter源码和深度克隆.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/js执行模型.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/js执行模型.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/promise原理.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/promise原理.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/reduce实现map.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/reduce实现map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/reduce实现源码.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/reduce实现源码.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/this指向.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/this指向.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/vue-diff算法.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/vue-diff算法.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/三角形.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/三角形.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/全选和取消.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/全选和取消.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/函数柯里化.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/函数柯里化.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/函数的柯里化.js" beforeDir="false" afterPath="$PROJECT_DIR$/bus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/发布订阅.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/发布订阅.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/变量提升.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/变量提升.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/图片懒加载.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/图片懒加载.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/圣杯布局.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/圣杯布局.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/实现jquery的一个dom链式操作.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/实现jquery的一个dom链式操作.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/扁平化数组，和环.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/扁平化数组，和环.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/手写instanceof.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写instanceof.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/手写jsonp.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写jsonp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/手写promise.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写promise.all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/手写前端路由.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写前端路由.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/数组扁平化.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组扁平化.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/数组的交集且不去重.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组的交集且不去重.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/数组转化为树形.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组转化为树形.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/数组转对象，reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组转对象，reduce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/树的层序遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/树的层序遍历.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/正则环视.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/正则环视.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/继承.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/连接转驼峰.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/连接转驼峰.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/重复字符串.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/重复字符串.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/防抖节流.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/防抖节流.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/隐式转换.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/隐式转换.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/88.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/88.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/封装两次fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/封装两次fetch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +80,7 @@
       <recent name="C:\Users\Administrator\WebstormProjects\nodeTest\src\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.88.html">
+  <component name="RunManager" selected="Node.js.封装两次fetch.js">
     <configuration name="88.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/test/88.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -228,8 +168,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.88.html" />
         <item itemvalue="Node.js.封装两次fetch.js" />
+        <item itemvalue="JavaScript Debug.88.html" />
         <item itemvalue="Node.js.promise原理.js" />
         <item itemvalue="Node.js.堆内存和栈内存.js" />
         <item itemvalue="Node.js.index.js" />
@@ -374,7 +314,7 @@
       <workItem from="1611314846546" duration="9479000" />
       <workItem from="1611420667559" duration="3437000" />
       <workItem from="1611426607356" duration="900000" />
-      <workItem from="1611476508893" duration="9326000" />
+      <workItem from="1611476508893" duration="10990000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -593,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610899435605</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1611504223238</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1611504223238</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,30 +564,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'feature-test-ypp' of https://github.com/CarolineYang/nodeTest into feature-test-ypp&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="98" y="0" key="CommitChangelistDialog2" timestamp="1610902150367">
+    <state x="98" y="0" key="CommitChangelistDialog2" timestamp="1611504222290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="98" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610902150367" />
+    <state x="98" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1611504222290" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611494769249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611494769249" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1611502970199">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1611505808956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1611502970199">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611505808956" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1611505808956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1611502970199">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611505808956" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1611505808956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1611502970199">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611505808956" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1611505808956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611505808956" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1611246591608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -689,10 +636,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
-    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1610902151851">
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1611504224496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610902151851" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1611504224496" />
     <state x="463" y="203" key="git4idea.merge.GitPullDialog" timestamp="1609162706335">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
