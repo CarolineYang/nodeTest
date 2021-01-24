@@ -3,16 +3,23 @@ class Promise{
         this.status = 'pending';
         this.resolve = undefined;
         this.reject = undefined;
+        //
+        this.onResolvedCallbacks = [] //成功的回调函数
+        this.onRejectedCallbacks = [] //失败的回调函数
         let resolve = (value)=>{
             if (this.status === 'pending'){
                 this.status = 'resolved';
                 this.resolve = value;
+                //发布执行函数
+                this.onResolvedCallbacks.forEach(fn => fn())
             }
         }
         let reject = (value)=>{
             if (this.status === 'pending'){
                 this.status = 'rejected';
                 this.reject = value;
+                //失败执行函数
+                this.onRejectedCallbacks.forEach(fn => fn())
             }
         }
         try{
@@ -26,6 +33,18 @@ class Promise{
             case "resolved":onResolved(this.resolve);break;
             case "rejected":onRejected(this.reject);break;
             default:
+        }
+        // 异步
+        if (this.status == 'pending') {
+            // 在pending状态的时候先订阅
+            this.onResolvedCallbacks.push(() => {
+                // todo
+                onResolved(this.resolve)
+            });
+            this.onRejectedCallbacks.push(() => {
+                // todo
+                onRejected(this.reject)
+            });
         }
     }
 }
@@ -50,7 +69,7 @@ Promise.prototype.all = function(iterators){
 };
 Promise.prototype.race = function (promises) {
     if (!Array.isArray(promises)) {
-        throw new Error("promises must be an array")
+        throw new Error("promises must be an array");
     }
     return new Promise((resolve,reject)=>{
         promises.forEach((p)=>{

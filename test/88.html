@@ -3,6 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>forvue</title>
+    <style>
+        .a{
+            width: 0;
+            height: 0;
+            border-width: 100px;
+            border-style: solid;
+            border-color: transparent  transparent #0099CC transparent;
+            /*transform: rotate(90deg); !*顺时针旋转90°*!*/
+        }
+    </style>
 </head>
 <body>
 <input type="text" id="textInput">
@@ -13,6 +23,9 @@
     <li>sub li element</li>
     <li>sub li element</li>
 </ol>
+
+
+<div class="a"></div>
 <script>
     var obj = {},
         textInput = document.querySelector('#textInput'),
@@ -62,6 +75,40 @@
     son.sum();
     var sonTwo = new Son();
     sonTwo.say();
+    function hh(aa){
+        console.log('chuan',aa)
+        fetch('./b.json').then((res2)=>{
+            console.log(res2)
+            return res2.json();
+
+        }).then((res3)=>{
+            console.log(res3)
+
+        });
+    }
+    function hh1(aa){
+        console.log('chuan111',aa)
+        fetch('./a.json').then((res)=>{
+            console.log(res)
+            return res.json();
+
+        }).then((res)=>{
+            resolve(res)
+            console.log(res)
+
+        });
+    }
+    async function fetchAll(arr){
+        let p ;
+        for(let fn of arr){
+            p = await fn(p)
+            console.log('a',p)
+        }
+
+        return p;
+    }
+    let arr = [hh1,hh];
+    console.log(fetchAll(arr))
 </script>
 </body>
 </html>

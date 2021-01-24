@@ -38,3 +38,11 @@ class Child extends Person{
 }
 var b = new Child('sss',20,'red')
 b.sayhi()
+function content(obj) {
+    function F() {
+
+    }
+    F.prototype = obj
+    return new F()
+}
+var s = content(new Person());

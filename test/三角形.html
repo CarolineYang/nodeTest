@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Triangle</title>
+</head>
+<style>
+    #triangle{
+
+        width: 0;
+        height: 0;
+        border-left: 50px solid white;
+        border-right: 50px solid white;
+        border-bottom: 100px solid red;
+    }
+    #triangle:hover{
+        animation: r 1s ;
+        /*transform: rotate(360deg);*/
+    }
+    @keyframes r {
+        from{
+            transform: rotate(0deg);
+        }
+        to{
+            transform: rotate(360deg);
+        }
+    }
+</style>
+<body>
+<div id="triangle"></div>
+<script>
+    var nickname = "LiLei";
+    function Person(name){
+        this.nickname = name;
+        this.sayHi = function() {
+            console.log(this.nickname);
+            setTimeout(function(){
+                console.log(this.nickname);
+            }, 1000);
+        }
+    }
+
+    var Male = {
+        nickname: 'xiaofang',
+        sayHi: () => {
+            console.log(this.nickname);
+        }
+    }
+    var person = new (Person.bind(Male, 'XiaoHong'));
+    person.sayHi();
+    function deepCopy(obj, map = new Map()) {
+        if (typeof obj === 'object') {
+            let res = Array.isArray(obj) ? [] : {};
+            if(map.get(obj)){
+                return map.get(obj);
+            }
+            map.set(obj,res);
+            for(var i in obj){
+                res[i] = deepCopy(obj[i],map);
+            }
+            return map.get(obj);
+        }else{
+            return obj;
+        }
+    };
+    var A={a:1};
+    A.A=A;
+
+    var B = deepCopy(A);
+    console.log(B.A,B.A.A);
+</script>
+</body>
+</html>

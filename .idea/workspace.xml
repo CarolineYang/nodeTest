@@ -2,162 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67be40f-6d5d-449e-87d8-b5fbb713a3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/236、二叉树的最近公共祖先.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/filter源码和深度克隆.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/reduce实现源码.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/vue-diff算法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/三角形.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/函数的柯里化.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/实现jquery的一个dom链式操作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/手写前端路由.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/数组的交集且不去重.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/数组转对象，reduce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/树的层序遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试/重复字符串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/rgb转字符串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/Dep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/Observer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/Watcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/arrayMethods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/defineReactive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/observe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/set源码.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vue响应式/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/函数的柯里化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/原生ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/堆内存和栈内存.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/封装两次fetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/查找两个节点的最近的一个共同父节点，可以包括节点自身.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/根据包名创造空间.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/解析url.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/88.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试/88.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/js执行模型.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/js执行模型.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/主诉.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/reduce实现map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/扁平化数组，和环.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/扁平化数组，和环.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/手写promise.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/手写promise.all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试/数组扁平化.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试/数组扁平化.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/ab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ff.html" beforeDir="false" afterPath="$PROJECT_DIR$/ff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/1、函数声明不可执行.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/1、函数声明不可执行.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/2、Object.is 和== ===.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/2、Object.is 和== ===.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/88.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/88.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/Object.observe.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/Object.observe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/bfc块级盒子模型.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/bfc块级盒子模型.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/css实现宽度和浏览器窗口一样的正方形.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/css实现宽度和浏览器窗口一样的正方形.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/filter源码和深度克隆.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/filter源码和深度克隆.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/js执行模型.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/js执行模型.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/promise原理.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/promise原理.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/reduce实现map.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/reduce实现map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/reduce实现源码.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/reduce实现源码.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/this指向.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/this指向.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/vue-diff算法.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/vue-diff算法.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/三角形.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/三角形.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/全选和取消.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/全选和取消.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/函数柯里化.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/函数柯里化.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/函数的柯里化.js" beforeDir="false" afterPath="$PROJECT_DIR$/bus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/发布订阅.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/发布订阅.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/变量提升.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/变量提升.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/图片懒加载.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/图片懒加载.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/圣杯布局.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/圣杯布局.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/实现jquery的一个dom链式操作.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/实现jquery的一个dom链式操作.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/扁平化数组，和环.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/扁平化数组，和环.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/手写instanceof.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写instanceof.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/手写jsonp.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写jsonp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/手写promise.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写promise.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/手写前端路由.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/手写前端路由.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/数组扁平化.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组扁平化.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/数组的交集且不去重.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组的交集且不去重.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/数组转化为树形.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组转化为树形.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/数组转对象，reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/数组转对象，reduce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/树的层序遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/树的层序遍历.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/正则环视.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/正则环视.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/继承.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/继承.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/连接转驼峰.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/连接转驼峰.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/重复字符串.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/重复字符串.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/防抖节流.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/防抖节流.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试/隐式转换.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/隐式转换.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/连接转驼峰.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/promise原理.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/重复字符串.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/树的层序遍历.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="47" selection-start-line="47" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/实现jquery的一个dom链式操作.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/手写前端路由.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/filter源码和深度克隆.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="62" selection-start-line="62" selection-end-line="80" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法/236、二叉树的最近公共祖先.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/reduce实现源码.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/reduce实现map.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="tsconfig.json" />
         <option value="package.json" />
         <option value="xml" />
         <option value="XSLT Stylesheet" />
         <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
     <option name="SCHEME" value="Project" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>[1],document.childNodes)；</find>
-      <find>document.body</find>
-      <find>getAttr</find>
-      <find>/div</find>
-      <find>panel-title</find>
-      <find>secondPanel +=</find>
-      <find>thirdPanel +=</find>
-      <find>amd</find>
-      <find>auto_publish_time</find>
-      <find>timerEditModal</find>
-      <find>TopEndTime</find>
-      <find>openTopEndTime</find>
-      <find>t-time-seperate</find>
-      <find>tableData</find>
-      <find>showImportColumnModal</find>
-      <find>账号渠道</find>
-      <find>isFocu</find>
-      <find>isFocus</find>
-      <find>Focus</find>
-      <find>onblur</find>
-      <find>calendarPanel</find>
-      <find>show</find>
-      <find>xvDate</find>
-      <find>date1</find>
-      <find>commen</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -167,66 +93,9 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/面试/树的层序遍历.js" />
-        <option value="$PROJECT_DIR$/面试/实现jquery的一个dom链式操作.html" />
-        <option value="$PROJECT_DIR$/面试/手写前端路由.js" />
-        <option value="$PROJECT_DIR$/面试/filter源码和深度克隆.js" />
-        <option value="$PROJECT_DIR$/算法/236、二叉树的最近公共祖先.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="14" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1ly8Mwjcn2qi1Uii7dgzIO35fdR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="es6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="es6" type="462c0819:PsiDirectoryNode" />
-              <item name="18、Class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="面试" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -239,7 +108,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue3-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -258,6 +127,11 @@
     <property name="ts.external.directory.path" value="C:\Users\TSINGRUI\WebstormProjects\nodeTest\面试\SNP\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TSINGRUI\WebstormProjects\nodeTest\插件" />
+      <recent name="C:\Users\TSINGRUI\WebstormProjects\nodeTest\js高程\15、使用Canvas绘图" />
+      <recent name="C:\Users\TSINGRUI\nodeTest\modifyModules\testModule" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\TSINGRUI\WebstormProjects\nodeTest\面试" />
       <recent name="C:\Users\TSINGRUI\WebstormProjects\nodeTest\node_web" />
@@ -265,44 +139,63 @@
       <recent name="C:\Users\Administrator\WebstormProjects\nodeTest\js高程\16、HTML5脚本编程" />
       <recent name="C:\Users\Administrator\WebstormProjects\nodeTest\src\img" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\TSINGRUI\WebstormProjects\nodeTest\插件" />
-      <recent name="C:\Users\TSINGRUI\WebstormProjects\nodeTest\js高程\15、使用Canvas绘图" />
-      <recent name="C:\Users\TSINGRUI\nodeTest\modifyModules\testModule" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Node.js.filter源码和深度克隆.js">
-    <configuration name="88.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/面试/88.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.88.html">
+    <configuration name="88.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/test/88.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="三角形.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeTest/面试/三角形.html" useBuiltInWebServerPort="true">
+    <configuration name="堆内存和栈内存.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/堆内存和栈内存.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
-    <configuration name="扁平化数组，和环.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/扁平化数组，和环.js" working-dir="$PROJECT_DIR$/面试">
+    <configuration name="函数的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="深度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/深度遍历模板.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组转化为树形.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组转化为树形.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="重复字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/重复字符串.js" working-dir="$PROJECT_DIR$/面试">
       <method v="2" />
     </configuration>
     <configuration name="树的层序遍历.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/树的层序遍历.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="树的层序遍历.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/树的层序遍历.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
+    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
+      <method v="2" />
+    </configuration>
     <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="扁平化数组，和环.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/扁平化数组，和环.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="对象数组化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/对象数组化.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="对象的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" working-dir="$PROJECT_DIR$/es6/9、对象的扩展">
       <method v="2" />
     </configuration>
     <configuration name="深度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/深度遍历模板.js" working-dir="$PROJECT_DIR$/算法">
       <method v="2" />
     </configuration>
-    <configuration name="对象数组化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/对象数组化.js" working-dir="$PROJECT_DIR$">
+    <configuration name="根据包名创造空间.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/根据包名创造空间.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <configuration name="函数的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="主诉.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/主诉.js" working-dir="$PROJECT_DIR$">
@@ -317,68 +210,29 @@
     <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$/算法">
       <method v="2" />
     </configuration>
-    <configuration name="字母异位词组合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/字母异位词组合.js" working-dir="$PROJECT_DIR$/算法">
+    <configuration name="封装两次fetch.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/封装两次fetch.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
-    <configuration name="函数的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" working-dir="$PROJECT_DIR$">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/vue响应式/index.js" working-dir="$PROJECT_DIR$/test/vue响应式">
       <method v="2" />
     </configuration>
-    <configuration name="深度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/深度遍历模板.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="重复字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/重复字符串.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="对象的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="函数的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/8、函数的扩展/函数的扩展.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="数组转化为树形.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组转化为树形.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="树的层序遍历.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/树的层序遍历.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="广度遍历模板.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/广度遍历模板.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/数组扁平化.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="扁平化数组，和环.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/扁平化数组，和环.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="正则环视.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/正则环视.js" working-dir="$PROJECT_DIR$/面试">
-      <method v="2" />
-    </configuration>
-    <configuration name="对象的扩展.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/es6/9、对象的扩展/对象的扩展.js" working-dir="$PROJECT_DIR$/es6/9、对象的扩展">
-      <method v="2" />
-    </configuration>
-    <configuration name="filter源码和深度克隆.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试/filter源码和深度克隆.js" working-dir="$PROJECT_DIR$">
+    <configuration name="promise原理.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/promise原理.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.堆内存和栈内存.js" />
+      <item itemvalue="Node.js.promise原理.js" />
       <item itemvalue="JavaScript Debug.88.html" />
-      <item itemvalue="JavaScript Debug.三角形.html" />
-      <item itemvalue="Node.js.扁平化数组，和环.js" />
-      <item itemvalue="Node.js.树的层序遍历.js" />
-      <item itemvalue="Node.js.filter源码和深度克隆.js" />
+      <item itemvalue="Node.js.封装两次fetch.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.filter源码和深度克隆.js" />
-        <item itemvalue="Node.js.树的层序遍历.js" />
-        <item itemvalue="JavaScript Debug.三角形.html" />
         <item itemvalue="JavaScript Debug.88.html" />
-        <item itemvalue="Node.js.扁平化数组，和环.js" />
+        <item itemvalue="Node.js.封装两次fetch.js" />
+        <item itemvalue="Node.js.promise原理.js" />
+        <item itemvalue="Node.js.堆内存和栈内存.js" />
+        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -513,6 +367,14 @@
       <workItem from="1610674664864" duration="11634000" />
       <workItem from="1610777192624" duration="12761000" />
       <workItem from="1610859956930" duration="6672000" />
+      <workItem from="1611107963189" duration="5112000" />
+      <workItem from="1611154456534" duration="752000" />
+      <workItem from="1611208938726" duration="17772000" />
+      <workItem from="1611300904081" duration="3827000" />
+      <workItem from="1611314846546" duration="9479000" />
+      <workItem from="1611420667559" duration="3437000" />
+      <workItem from="1611426607356" duration="900000" />
+      <workItem from="1611476508893" duration="9326000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1577076081146</created>
@@ -734,32 +596,6 @@
     <option name="localTasksCounter" value="32" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8002000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21548998" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -785,74 +621,74 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="98" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610902150367" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610440331260">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611494769249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610440331260" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1610902306681">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611494769249" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1611502970199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610902306681" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1610902306681">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1611502970199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610902306681" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1610902306681">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1611502970199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610902306681" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1610902306681">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1611502970199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610902306681" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1610549252448">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611502970199" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1611246591608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611246591608" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1611246591608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611246591608" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1611246591608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611246591608" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1611246591608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611246591608" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1611246591609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1611246591609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1611246591608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1611246591608" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1611246591609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1611246591609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1611246591609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1611246591609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
-    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1610549252448">
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1611246591609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1610549252448" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1611246591609" />
     <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1610902151851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -861,6 +697,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="463" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1609162706335" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611036717670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611036717670" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -930,7 +770,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/面试/2、Object.is 和== ===.js</url>
+          <url>file://$PROJECT_DIR$/test/2、Object.is 和== ===.js</url>
           <line>33</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
@@ -950,7 +790,7 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/面试/防抖节流.js</url>
+          <url>file://$PROJECT_DIR$/test/防抖节流.js</url>
           <line>4</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
@@ -960,7 +800,7 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/面试/数组扁平化.js</url>
+          <url>file://$PROJECT_DIR$/test/数组扁平化.js</url>
           <line>19</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
@@ -975,118 +815,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/连接转驼峰.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/重复字符串.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/手写jsonp.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/树的层序遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="47" selection-start-line="47" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/手写promise.all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/变量提升.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/实现jquery的一个dom链式操作.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/手写前端路由.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/发布订阅.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/全选和取消.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/reduce实现源码.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/this指向.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/reduce实现map.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/隐式转换.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/promise原理.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试/filter源码和深度克隆.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="62" selection-start-line="62" selection-end-line="80" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法/236、二叉树的最近公共祖先.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
